@@ -1,4 +1,4 @@
-# Repository contains stimuli and results of 2 listening experiments:
+# Repository of listening experiments with synonyms:
 ## 1) Single Word Listening (SWL)
 ## 2) Short Utterance Listening (SUL).
 
