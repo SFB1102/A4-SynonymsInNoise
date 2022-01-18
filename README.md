@@ -5,6 +5,8 @@
 
 For more details about listening experiments, please refer our work [Exploring the Potential of Lexical Paraphrases for Mitigating Noise-Induced Comprehension Errors](https://www.isca-speech.org/archive/pdfs/interspeech_2021/chingacham21_interspeech.pdf).
 
+Stimuli audio files are available from https://repos.lsv.uni-saarland.de/achingacham/listeningexperiment_synonyms.git
+
 If you would like to share any concerns/suggestions/comments to improve this repo, please raise an issue here.
 
 Please use the following citation, if you happen to use our data or to refer our work:
