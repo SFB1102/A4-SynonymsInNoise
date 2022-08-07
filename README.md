@@ -4,7 +4,7 @@
 ## 2) Short Utterance Listening (SUL).
 
 
-For more details about listening experiments, please refer our work [Exploring the Potential of Lexical Paraphrases for Mitigating Noise-Induced Comprehension Errors](https://www.isca-speech.org/archive/pdfs/interspeech_2021/chingacham21_interspeech.pdf).
+For more details about listening experiments, please refer to our work [Exploring the Potential of Lexical Paraphrases for Mitigating Noise-Induced Comprehension Errors](https://www.isca-speech.org/archive/pdfs/interspeech_2021/chingacham21_interspeech.pdf).
 
 Stimuli audio files are available here : https://repos.lsv.uni-saarland.de/achingacham/listeningexperiment_synonyms.git
 
