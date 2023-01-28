@@ -15,7 +15,7 @@ Please use the following citation to refer to this work/dataset:
 
 ```
 @inproceedings{chingacham21_interspeech,
-  author={Anupama Chingacham and Vera Demberg and Dietrich Klakow},
+  author={Anupama Chingacham, Vera Demberg, Dietrich Klakow},
   title={{Exploring the Potential of Lexical Paraphrases for Mitigating Noise-Induced Comprehension Errors}},
   year=2021,
   booktitle={Proc. Interspeech 2021},
