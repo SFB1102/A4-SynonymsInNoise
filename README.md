@@ -10,7 +10,7 @@ Stimuli audio files are available here : https://repos.lsv.uni-saarland.de/achin
 
 If you would like to share any concerns/suggestions/comments to improve this repo, please raise an issue here.
 
-Please use the following citation, if you happen to use our data or to refer this work:
+Please use the following citation to refer to this work/dataset:
 
 
 ```
