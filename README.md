@@ -1,9 +1,9 @@
 # Synonyms in Noise:
 ### A dataset of human mishearings in noise collected from 2 listening ecperiments:
 ## 1) Single Word Listening (SWL)
-Listeners were instructed to listen single words (without context) and transcribe them.
+Listeners were instructed to listen to single words (without context) and transcribe them.
 ## 2) Short Utterance Listening (SUL)
-Listeners were instructed to listen short utterance and transcribe them.
+Listeners were instructed to listen to short utterance and transcribe them.
 
 -----------------------------
 
