@@ -1,0 +1,1268 @@
+Target:wordPos	utterance	word	log_prob (word|left_context)	word_ph_len	STOI_babble_snr_0	STOI_babble_snr_-5	STOI_babble_snr_5	HRS_babble_snr_5	HRS_babble_snr_0	HRS_babble_snr_-5
+0:01	and he runs away scared and dives into the ocean	he	-5.78	2	0.646541566	0.456382688	0.733534039	0.666666667	0.666666667	0
+0:02	and he runs away scared and dives into the ocean	runs	-6.95	4	0.55667317	0.471004283	0.696782069	0.833333333	0.5	0
+0:03	and he runs away scared and dives into the ocean	away	-5.36	3	0.708136516	0.488527654	0.874540136	1	0.833333333	0
+0:04	and he runs away scared and dives into the ocean	scared	-11.92	5	0.819932519	0.651223813	0.933261494	0.833333333	0.666666667	0.666666667
+0:05	and he runs away scared and dives into the ocean	and	-3.72	3	0.787526494	0.643693002	0.870525041	1	0.833333333	0.166666667
+0:06	and he runs away scared and dives into the ocean	dives	-12.31	4	0.676684382	0.493847784	0.729202523	0.833333333	0.833333333	0
+0:07	and he runs away scared and dives into the ocean	into	-6.88	4	0.699888684	0.521872081	0.847237959	0.833333333	0.666666667	0
+0:08	and he runs away scared and dives into the ocean	the	-1.41	2	0.537922917	0.199520389	0.664877878	1	0.666666667	0
+0:09	and he runs away scared and dives into the ocean	ocean	-7.26	4	0.802388364	0.694820377	0.88579003	1	0.666666667	0
+1:01	and he runs away scared and dives into the sea	he	-5.78	2	0.646541566	0.456382688	0.733534039	0.833333333	0.833333333	0
+1:02	and he runs away scared and dives into the sea	runs	-6.95	4	0.55667317	0.471004283	0.696782069	1	0.833333333	0
+1:03	and he runs away scared and dives into the sea	away	-5.36	3	0.708136516	0.488527654	0.874540136	1	0.666666667	0
+1:04	and he runs away scared and dives into the sea	scared	-11.92	5	0.819932519	0.651223813	0.933261494	1	1	0.5
+1:05	and he runs away scared and dives into the sea	and	-3.72	3	0.787526494	0.643693002	0.870525041	1	1	0.833333333
+1:06	and he runs away scared and dives into the sea	dives	-12.31	4	0.676684382	0.493847784	0.729202523	1	0.833333333	1
+1:07	and he runs away scared and dives into the sea	into	-6.88	4	0.699888684	0.521872081	0.847237959	0.833333333	1	0.833333333
+1:08	and he runs away scared and dives into the sea	the	-1.41	2	0.537922917	0.199520389	0.664877878	1	1	1
+1:09	and he runs away scared and dives into the sea	sea	-9.64	2	0.696770043	0.549816471	0.85117769	1	1	1
+2:01	and people were like cater to his every need	people	-6.16	5	0.742457066	0.539944845	0.899177152	1	1	0.666666667
+2:02	and people were like cater to his every need	were	-4.82	2	0.697823885	0.447645221	0.859216816	0.166666667	0.5	0.5
+2:03	and people were like cater to his every need	like	-4.18	3	0.794628915	0.617932166	0.907579193	0.833333333	0.833333333	0.666666667
+2:04	and people were like cater to his every need	cater	-12.1	4	0.836378253	0.663411827	0.925970986	1	0.166666667	0
+2:05	and people were like cater to his every need	to	-1	2	0.564953928	0.45146134	0.788231969	1	0.166666667	0.166666667
+2:06	and people were like cater to his every need	his	-6.33	3	0.646724273	0.590425561	0.73812473	1	0.5	0.166666667
+2:07	and people were like cater to his every need	every	-8.94	4	0.762920779	0.576969229	0.881152217	1	1	0.666666667
+2:08	and people were like cater to his every need	need	-10.97	3	0.49892533	0.338130562	0.723482805	1	1	1
+3:01	and people were like provide to his every need	people	-6.16	5	0.742457066	0.539944845	0.899177152	1	1	0.833333333
+3:02	and people were like provide to his every need	were	-4.82	2	0.697823885	0.447645221	0.859216816	0.5	0.666666667	0.166666667
+3:03	and people were like provide to his every need	like	-4.18	3	0.794628915	0.617932166	0.907579193	0.666666667	0.833333333	0.166666667
+3:04	and people were like provide to his every need	provide	-11.24	6	0.736664673	0.592543486	0.841782341	0.666666667	0.166666667	0
+3:05	and people were like provide to his every need	to	-4.08	2	0.564953928	0.45146134	0.788231969	0.833333333	0.833333333	0.5
+3:06	and people were like provide to his every need	his	-7.29	3	0.646724273	0.590425561	0.73812473	1	0.666666667	0.666666667
+3:07	and people were like provide to his every need	every	-9.07	4	0.762920779	0.576969229	0.881152217	1	1	0.666666667
+3:08	and people were like provide to his every need	need	-10.62	3	0.49892533	0.338130562	0.723482805	1	1	0.666666667
+4:01	and she was really grateful and she 's	she	-6.69	2	0.82435915	0.667284845	0.856017545	1	1	0.5
+4:02	and she was really grateful and she 's	was	-2.87	3	0.727564693	0.537003996	0.760263436	1	1	0.5
+4:03	and she was really grateful and she 's	really	-3.83	4	0.552563749	0.481660549	0.701970351	1	1	0.833333333
+4:04	and she was really grateful and she 's	grateful	-9.19	7	0.775694628	0.675526351	0.869518908	0.833333333	1	0.666666667
+4:05	and she was really grateful and she 's	and	-4.77	3	0.787526494	0.643693002	0.870525041	1	0.833333333	0.666666667
+4:06	and she was really grateful and she 's	she	-4.8	2	0.82435915	0.667284845	0.856017545	1	1	0.5
+4:07	and she was really grateful and she 's	's	-2.99	3	0.796203933	0.742192137	0.869276556	0.666666667	0.166666667	0
+5:01	and she was really thankful and she 's	she	-6.69	2	0.82435915	0.667284845	0.856017545	1	1	1
+5:02	and she was really thankful and she 's	was	-2.87	3	0.727564693	0.537003996	0.760263436	1	1	1
+5:03	and she was really thankful and she 's	really	-3.83	4	0.552563749	0.481660549	0.701970351	1	1	1
+5:04	and she was really thankful and she 's	thankful	-7.89	7	0.772989001	0.638565541	0.909136202	1	1	0.833333333
+5:05	and she was really thankful and she 's	and	-5.68	3	0.787526494	0.643693002	0.870525041	1	1	1
+5:06	and she was really thankful and she 's	she	-5.02	2	0.82435915	0.667284845	0.856017545	1	1	1
+5:07	and she was really thankful and she 's	's	-2.94	3	0.796203933	0.742192137	0.869276556	0	0	0.166666667
+6:01	and then dad said unk you could	then	-3.46	3	0.833093901	0.713198105	0.872215964	0.833333333	0.666666667	0.166666667
+6:02	and then dad said unk you could	dad	-8.97	3	0.766485484	0.607793994	0.902812705	1	0.666666667	0
+6:03	and then dad said unk you could	said	-4.46	3	0.893801784	0.791753892	0.960076774	1	0.833333333	0
+6:05	and then dad said unk you could	you	-2.72	2	0.589431956	0.634635308	0.557849016	0.833333333	0.666666667	0
+6:06	and then dad said unk you could	could	-4.02	3	0.866933357	0.612272572	0.940696229	1	1	0.166666667
+7:01	and then dad said instead you could	then	-3.46	3	0.833093901	0.713198105	0.872215964	0.833333333	0.333333333	0.333333333
+7:02	and then dad said instead you could	dad	-8.97	3	0.766485484	0.607793994	0.902812705	1	0.666666667	0.333333333
+7:03	and then dad said instead you could	said	-4.46	3	0.893801784	0.791753892	0.960076774	1	0.666666667	0.5
+7:04	and then dad said instead you could	instead	-8.88	6	0.731986456	0.658483559	0.885562194	1	0.5	0.166666667
+7:05	and then dad said instead you could	you	-5.37	2	0.589431956	0.634635308	0.557849016	0.666666667	0.166666667	0
+7:06	and then dad said instead you could	could	-4.4	3	0.866933357	0.612272572	0.940696229	0.833333333	0.333333333	0
+8:01	and they certainly put other things out	they	-4.09	2	0.769852066	0.662375908	0.90448277	0.833333333	0.5	0.166666667
+8:02	and they certainly put other things out	certainly	-7.29	7	0.646989352	0.541927604	0.804244784	1	1	0.333333333
+8:03	and they certainly put other things out	put	-4.99	3	0.886039382	0.80884126	0.97006723	1	0.833333333	0.333333333
+8:04	and they certainly put other things out	other	-6.57	3	0.791356575	0.631805174	0.917571799	1	0.833333333	0.166666667
+8:05	and they certainly put other things out	things	-1.47	4	0.474329139	0.384444485	0.617893431	1	0.833333333	0.166666667
+8:06	and they certainly put other things out	out	-2.06	2	0.829207399	0.70110962	0.932692248	1	0.833333333	0.166666667
+9:01	and they sure put other things out	they	-4.09	2	0.769852066	0.662375908	0.90448277	1	0.833333333	0.5
+9:02	and they sure put other things out	sure	-8.2	3	0.799473515	0.643051424	0.908827919	0.666666667	0.5	0.333333333
+9:03	and they sure put other things out	put	-5.7	3	0.886039382	0.80884126	0.97006723	1	1	0.5
+9:04	and they sure put other things out	other	-6.64	3	0.791356575	0.631805174	0.917571799	1	0.833333333	0.333333333
+9:05	and they sure put other things out	things	-1.45	4	0.474329139	0.384444485	0.617893431	1	0.833333333	0.5
+9:06	and they sure put other things out	out	-2.09	2	0.829207399	0.70110962	0.932692248	1	0.833333333	0.5
+10:01	apparently very good indian restaurants but this was brilliant	very	-6.67	4	0.81723182	0.561902268	0.901406668	1	0.666666667	0
+10:02	apparently very good indian restaurants but this was brilliant	good	-3.16	3	0.830705788	0.69603016	0.854177957	1	1	0
+10:03	apparently very good indian restaurants but this was brilliant	indian	-10.53	6	0.657285847	0.399203365	0.749735138	1	1	0
+10:04	apparently very good indian restaurants but this was brilliant	restaurants	-7.25	9	0.769652223	0.800658718	0.882900299	1	1	0.833333333
+10:05	apparently very good indian restaurants but this was brilliant	but	-5.38	3	0.843730714	0.775294092	0.966911146	1	1	0.666666667
+10:06	apparently very good indian restaurants but this was brilliant	this	-5.93	3	0.745428853	0.598218695	0.821968415	1	1	0.666666667
+10:07	apparently very good indian restaurants but this was brilliant	was	-3.77	3	0.727564693	0.537003996	0.760263436	1	0.833333333	0.666666667
+10:08	apparently very good indian restaurants but this was brilliant	brilliant	-12.56	8	0.423491807	0.396018159	0.686617131	1	1	0.833333333
+11:01	beware do not go in the water	do	-4.71	2	0.5614232	0.449052399	0.763007385	0.833333333	1	0
+11:02	beware do not go in the water	not	-4	3	0.83510231	0.774108485	0.955440843	1	1	0.166666667
+11:03	beware do not go in the water	go	-4.48	2	0.827750948	0.671539759	0.90960004	1	1	0.166666667
+11:04	beware do not go in the water	in	-3.55	2	0.698548189	0.501917747	0.730330444	1	1	0
+11:05	beware do not go in the water	the	-1.95	2	0.537922917	0.199520389	0.664877878	1	1	0
+11:06	beware do not go in the water	water	-5.91	4	0.632480872	0.453443075	0.732764845	1	1	0.166666667
+12:01	but other things there that i would not so normally	other	-6.56	3	0.791356575	0.631805174	0.917571799	1	0.833333333	0
+12:02	but other things there that i would not so normally	things	-2.94	4	0.474329139	0.384444485	0.617893431	1	0.833333333	0
+12:03	but other things there that i would not so normally	there	-5.86	3	0.761991086	0.50882468	0.890916856	0.833333333	0.166666667	0.166666667
+12:04	but other things there that i would not so normally	that	-3.31	3	0.858494095	0.774072043	0.960537108	0.666666667	0.5	0.333333333
+12:05	but other things there that i would not so normally	i	-2.14	1	0.698881221	0.523162631	0.851248487	0.666666667	0.833333333	0.5
+12:06	but other things there that i would not so normally	would	-3.27	3	0.831415596	0.638307008	0.890644965	0.666666667	0.833333333	0.833333333
+12:07	but other things there that i would not so normally	not	-4.1	3	0.83510231	0.774108485	0.955440843	1	0.666666667	0.833333333
+12:08	but other things there that i would not so normally	so	-8.65	2	0.827959454	0.786175267	0.945709785	0.166666667	0	0
+12:09	but other things there that i would not so normally	normally	-9.91	7	0.614939681	0.390574622	0.735353496	1	0.166666667	0
+13:01	but other things there that i would not so ordinarily	other	-6.56	3	0.791356575	0.631805174	0.917571799	0.833333333	0.666666667	0
+13:02	but other things there that i would not so ordinarily	things	-2.94	4	0.474329139	0.384444485	0.617893431	0.833333333	0.666666667	0
+13:03	but other things there that i would not so ordinarily	there	-5.86	3	0.761991086	0.50882468	0.890916856	0.833333333	0.333333333	0.166666667
+13:04	but other things there that i would not so ordinarily	that	-3.31	3	0.858494095	0.774072043	0.960537108	0.666666667	0.5	0.333333333
+13:05	but other things there that i would not so ordinarily	i	-2.14	1	0.698881221	0.523162631	0.851248487	1	0.833333333	0.5
+13:06	but other things there that i would not so ordinarily	would	-3.27	3	0.831415596	0.638307008	0.890644965	1	0.666666667	0
+13:07	but other things there that i would not so ordinarily	not	-4.1	3	0.83510231	0.774108485	0.955440843	1	1	0.666666667
+13:08	but other things there that i would not so ordinarily	so	-8.65	2	0.827959454	0.786175267	0.945709785	0.333333333	0.666666667	0.333333333
+13:09	but other things there that i would not so ordinarily	ordinarily	-12.23	10	0.65238244	0.429485782	0.772018862	0.833333333	1	0.833333333
+14:01	but other things there that i would not so usually	other	-6.56	3	0.791356575	0.631805174	0.917571799	1	0.666666667	0
+14:02	but other things there that i would not so usually	things	-2.94	4	0.474329139	0.384444485	0.617893431	1	0.833333333	0
+14:03	but other things there that i would not so usually	there	-5.86	3	0.761991086	0.50882468	0.890916856	0.833333333	0.166666667	0
+14:04	but other things there that i would not so usually	that	-3.31	3	0.858494095	0.774072043	0.960537108	1	0.666666667	0.166666667
+14:05	but other things there that i would not so usually	i	-2.14	1	0.698881221	0.523162631	0.851248487	0.833333333	1	0.5
+14:06	but other things there that i would not so usually	would	-3.27	3	0.831415596	0.638307008	0.890644965	0.833333333	1	0.666666667
+14:07	but other things there that i would not so usually	not	-4.1	3	0.83510231	0.774108485	0.955440843	1	1	0.833333333
+14:08	but other things there that i would not so usually	so	-8.65	2	0.827959454	0.786175267	0.945709785	0.5	0	0
+14:09	but other things there that i would not so usually	usually	-9.72	8	0.652119352	0.54519184	0.739109068	0.833333333	1	0.333333333
+15:01	but probably not the actual sentiment behind it	probably	-6.41	8	0.78078112	0.553564058	0.891780143	1	1	0.5
+15:02	but probably not the actual sentiment behind it	not	-2.22	3	0.83510231	0.774108485	0.955440843	1	1	0.333333333
+15:03	but probably not the actual sentiment behind it	the	-3.21	2	0.537922917	0.199520389	0.664877878	1	1	0.166666667
+15:04	but probably not the actual sentiment behind it	actual	-7.26	7	0.842865948	0.77568999	0.911416234	0.833333333	0.833333333	0.333333333
+15:05	but probably not the actual sentiment behind it	sentiment	-11.94	9	0.763030852	0.604110337	0.865308395	1	0.833333333	0.5
+15:06	but probably not the actual sentiment behind it	behind	-6.39	6	0.737096214	0.617433208	0.839694065	1	0.5	0
+15:07	but probably not the actual sentiment behind it	it	-2.05	2	0.827461182	0.765324546	0.914102825	1	0.5	0.333333333
+16:01	but probably not the actual view behind it	probably	-6.41	8	0.78078112	0.553564058	0.891780143	1	1	0.5
+16:02	but probably not the actual view behind it	not	-2.22	3	0.83510231	0.774108485	0.955440843	1	1	0.166666667
+16:03	but probably not the actual view behind it	the	-3.21	2	0.537922917	0.199520389	0.664877878	1	1	0.5
+16:04	but probably not the actual view behind it	actual	-7.26	7	0.842865948	0.77568999	0.911416234	1	1	0.166666667
+16:05	but probably not the actual view behind it	view	-7.45	3	0.505536152	0.379593587	0.709008772	1	1	0
+16:06	but probably not the actual view behind it	behind	-9.69	6	0.737096214	0.617433208	0.839694065	1	1	0.333333333
+16:07	but probably not the actual view behind it	it	-2.04	2	0.827461182	0.765324546	0.914102825	1	1	0.5
+17:01	but they suddenly unk that if half the population	they	-3.62	2	0.769852066	0.662375908	0.90448277	1	1	1
+17:02	but they suddenly unk that if half the population	suddenly	-11.1	7	0.716209987	0.610403685	0.855282028	1	1	1
+17:04	but they suddenly unk that if half the population	that	-3.9	3	0.858494095	0.774072043	0.960537108	0.5	0.333333333	0.666666667
+17:05	but they suddenly unk that if half the population	if	-5.57	2	0.744759142	0.725225774	0.880699382	0.5	0.333333333	0
+17:06	but they suddenly unk that if half the population	half	-10.63	3	0.716748303	0.486599482	0.80669679	1	1	0.833333333
+17:07	but they suddenly unk that if half the population	the	-1.38	2	0.537922917	0.199520389	0.664877878	1	1	0.833333333
+17:08	but they suddenly unk that if half the population	population	-7.45	10	0.723383632	0.583043604	0.844962226	1	1	0.666666667
+18:01	but they suddenly unk that if half the universe	they	-3.62	2	0.769852066	0.662375908	0.90448277	1	1	0.666666667
+18:02	but they suddenly unk that if half the universe	suddenly	-11.1	7	0.716209987	0.610403685	0.855282028	1	1	0.833333333
+18:04	but they suddenly unk that if half the universe	that	-3.9	3	0.858494095	0.774072043	0.960537108	0.5	0.333333333	0
+18:05	but they suddenly unk that if half the universe	if	-5.57	2	0.744759142	0.725225774	0.880699382	0.333333333	0.166666667	0
+18:06	but they suddenly unk that if half the universe	half	-10.63	3	0.716748303	0.486599482	0.80669679	1	0.5	0
+18:07	but they suddenly unk that if half the universe	the	-1.38	2	0.537922917	0.199520389	0.664877878	1	1	0.666666667
+18:08	but they suddenly unk that if half the universe	universe	-10.53	7	0.774294948	0.580358658	0.83329861	1	1	0.833333333
+19:01	unk she does not look sad normally	she	-7.09	2	0.82435915	0.667284845	0.856017545	1	1	0.5
+19:02	unk she does not look sad normally	does	-3.27	3	0.691611998	0.681689908	0.903789945	1	1	1
+19:03	unk she does not look sad normally	not	-3.45	3	0.83510231	0.774108485	0.955440843	1	1	1
+19:04	unk she does not look sad normally	look	-5.41	3	0.82978369	0.691625824	0.938892403	1	1	1
+19:05	unk she does not look sad normally	sad	-9.94	3	0.807751233	0.743777268	0.888554584	1	1	1
+19:06	unk she does not look sad normally	normally	-10.92	7	0.614939681	0.390574622	0.735353496	1	1	0
+20:01	unk she does not look sad usually	she	-7.09	2	0.82435915	0.667284845	0.856017545	1	1	0.333333333
+20:02	unk she does not look sad usually	does	-3.27	3	0.691611998	0.681689908	0.903789945	1	1	0.833333333
+20:03	unk she does not look sad usually	not	-3.45	3	0.83510231	0.774108485	0.955440843	1	1	0.833333333
+20:04	unk she does not look sad usually	look	-5.41	3	0.82978369	0.691625824	0.938892403	1	0.833333333	0.833333333
+20:05	unk she does not look sad usually	sad	-9.94	3	0.807751233	0.743777268	0.888554584	1	0.5	0.333333333
+20:06	unk she does not look sad usually	usually	-9.67	8	0.652119352	0.54519184	0.739109068	1	1	0.833333333
+21:01	unk they have lately announced a price increase	they	-4.54	2	0.769852066	0.662375908	0.90448277	1	1	0.5
+21:02	unk they have lately announced a price increase	have	-2.61	3	0.749897515	0.655628398	0.898080459	1	0.666666667	0.5
+21:03	unk they have lately announced a price increase	lately	-10.11	5	0.731903783	0.53588492	0.830720409	1	0.5	0
+21:04	unk they have lately announced a price increase	announced	-12.25	6	0.734713178	0.699240591	0.865750209	0.833333333	1	0.333333333
+21:05	unk they have lately announced a price increase	a	-5.02	1	0.761481519	0.680891232	0.928979461	1	0.666666667	0.333333333
+21:06	unk they have lately announced a price increase	price	-7.99	4	0.870580181	0.65684642	0.909419701	1	0.833333333	0.833333333
+21:07	unk they have lately announced a price increase	increase	-10.58	6	0.642488676	0.506768024	0.747791739	1	1	0.833333333
+22:01	unk they have recently announced a price increase	they	-4.54	2	0.769852066	0.662375908	0.90448277	1	1	0.833333333
+22:02	unk they have recently announced a price increase	have	-2.61	3	0.749897515	0.655628398	0.898080459	1	1	1
+22:03	unk they have recently announced a price increase	recently	-8.47	8	0.620090878	0.624800446	0.770340016	1	1	0.833333333
+22:04	unk they have recently announced a price increase	announced	-11.11	6	0.734713178	0.699240591	0.865750209	0.833333333	1	1
+22:05	unk they have recently announced a price increase	a	-4.99	1	0.761481519	0.680891232	0.928979461	1	1	0.666666667
+22:06	unk they have recently announced a price increase	price	-7.9	4	0.870580181	0.65684642	0.909419701	1	1	0.666666667
+22:07	unk they have recently announced a price increase	increase	-10.63	6	0.642488676	0.506768024	0.747791739	1	1	0.666666667
+23:01	do not come in and unk everyone please	not	-4.17	3	0.83510231	0.774108485	0.955440843	1	1	0.666666667
+23:02	do not come in and unk everyone please	come	-6.16	3	0.820600969	0.673611291	0.929566862	1	1	0.5
+23:03	do not come in and unk everyone please	in	-2.54	2	0.698548189	0.501917747	0.730330444	0.833333333	1	0.333333333
+23:04	do not come in and unk everyone please	and	-2.13	3	0.787526494	0.643693002	0.870525041	0.833333333	0.833333333	0.166666667
+23:06	do not come in and unk everyone please	everyone	-8.71	7	0.724169222	0.58096006	0.878665809	0.833333333	1	0.166666667
+23:07	do not come in and unk everyone please	please	-10.94	4	0.54860183	0.410703486	0.688228504	0.833333333	0.5	0.166666667
+24:01:00	do not come in and infect everyone please	not	-4.17	3	0.83510231	0.774108485	0.955440843	1	1	0.833333333
+24:02:00	do not come in and infect everyone please	come	-6.16	3	0.820600969	0.673611291	0.929566862	1	0.5	0
+24:03:00	do not come in and infect everyone please	in	-2.54	2	0.698548189	0.501917747	0.730330444	0.833333333	0.333333333	0.166666667
+24:04:00	do not come in and infect everyone please	and	-2.13	3	0.787526494	0.643693002	0.870525041	1	0.5	0.333333333
+24:05:00	do not come in and infect everyone please	infect	-12.3	6	0.851829919	0.743008791	0.929290913	1	0.666666667	0.5
+24:06:00	do not come in and infect everyone please	everyone	-7.07	7	0.724169222	0.58096006	0.878665809	1	1	1
+24:07:00	do not come in and infect everyone please	please	-11.15	4	0.54860183	0.410703486	0.688228504	1	0.666666667	0
+25:01:00	do not tread tomato through the carpet or whatever through there	not	-4.17	3	0.83510231	0.774108485	0.955440843	1	1	0.333333333
+25:02:00	do not tread tomato through the carpet or whatever through there	tread	-12.63	4	0.882814462	0.753572709	0.963188019	0.833333333	0.333333333	0
+25:03:00	do not tread tomato through the carpet or whatever through there	tomato	-9.01	6	0.775624016	0.564524278	0.87298378	1	0.833333333	0.666666667
+25:04:00	do not tread tomato through the carpet or whatever through there	through	-9.56	3	0.630935326	0.597648922	0.820491536	1	0.666666667	0
+25:05:00	do not tread tomato through the carpet or whatever through there	the	-1.31	2	0.537922917	0.199520389	0.664877878	0.833333333	0.666666667	0.166666667
+25:06:00	do not tread tomato through the carpet or whatever through there	carpet	-6.43	6	0.783377829	0.644083676	0.875424305	0.833333333	0.666666667	0.166666667
+25:07:00	do not tread tomato through the carpet or whatever through there	or	-3.66	2	0.644250617	0.391994181	0.678823216	1	0.666666667	0.166666667
+25:08:00	do not tread tomato through the carpet or whatever through there	whatever	-2.12	6	0.812511064	0.682300875	0.927624198	0.833333333	0.5	0.166666667
+25:09:00	do not tread tomato through the carpet or whatever through there	through	-9.39	3	0.630935326	0.597648922	0.820491536	1	0.666666667	0
+25:10:00	do not tread tomato through the carpet or whatever through there	there	-4.78	3	0.761991086	0.50882468	0.890916856	1	0.666666667	0.166666667
+26:01:00	do not tread tomato through the rug or whatever through there	not	-4.17	3	0.83510231	0.774108485	0.955440843	0.833333333	1	0.666666667
+26:02:00	do not tread tomato through the rug or whatever through there	tread	-12.63	4	0.882814462	0.753572709	0.963188019	0.666666667	0.166666667	0
+26:03:00	do not tread tomato through the rug or whatever through there	tomato	-9.01	6	0.775624016	0.564524278	0.87298378	1	0.833333333	1
+26:04:00	do not tread tomato through the rug or whatever through there	through	-9.56	3	0.630935326	0.597648922	0.820491536	1	0.5	0.333333333
+26:05:00	do not tread tomato through the rug or whatever through there	the	-1.31	2	0.537922917	0.199520389	0.664877878	0.666666667	0.333333333	0.166666667
+26:06:00	do not tread tomato through the rug or whatever through there	rug	-11.63	3	0.829292304	0.753888339	0.947623523	0.666666667	0.166666667	0
+26:07:00	do not tread tomato through the rug or whatever through there	or	-3.16	2	0.644250617	0.391994181	0.678823216	0.833333333	0.333333333	0.166666667
+26:08:00	do not tread tomato through the rug or whatever through there	whatever	-2.06	6	0.812511064	0.682300875	0.927624198	0.666666667	0.333333333	0.5
+26:09:00	do not tread tomato through the rug or whatever through there	through	-9.5	3	0.630935326	0.597648922	0.820491536	1	0.5	0.333333333
+26:10:00	do not tread tomato through the rug or whatever through there	there	-4.88	3	0.761991086	0.50882468	0.890916856	1	0.666666667	0.666666667
+27:01:00	enormous airport and i wandered about a mile	airport	-10.25	6	0.724363827	0.655382821	0.829770079	1	0.833333333	0.333333333
+27:02:00	enormous airport and i wandered about a mile	and	-3.31	3	0.787526494	0.643693002	0.870525041	0.833333333	0.666666667	0
+27:03:00	enormous airport and i wandered about a mile	i	-3.95	1	0.698881221	0.523162631	0.851248487	1	1	0.833333333
+27:04:00	enormous airport and i wandered about a mile	wandered	-13.83	6	0.73039096	0.513331022	0.758731716	0.833333333	1	0.666666667
+27:05:00	enormous airport and i wandered about a mile	about	-6.99	4	0.858979214	0.679912279	0.876612416	1	1	0.833333333
+27:06:00	enormous airport and i wandered about a mile	a	-2.02	1	0.761481519	0.680891232	0.928979461	1	1	0.166666667
+27:07:00	enormous airport and i wandered about a mile	mile	-4.84	3	0.689271335	0.481230034	0.863597016	1	1	0.166666667
+28:01:00	even the sort of like the champion ones are	the	-3.32	2	0.537922917	0.199520389	0.664877878	1	0.833333333	0.166666667
+28:02:00	even the sort of like the champion ones are	sort	-7.78	4	0.817611179	0.533039132	0.886485191	0.833333333	0.333333333	0
+28:03:00	even the sort of like the champion ones are	of	-0.2	2	0.759014466	0.64002209	0.893290755	0.833333333	0.333333333	0
+28:04:00	even the sort of like the champion ones are	like	-4.61	3	0.794628915	0.617932166	0.907579193	0.5	0.666666667	0.166666667
+28:05:00	even the sort of like the champion ones are	the	-1.77	2	0.537922917	0.199520389	0.664877878	1	0.833333333	0.166666667
+28:06:00	even the sort of like the champion ones are	champion	-10.52	7	0.769665133	0.726787813	0.890092897	1	1	0.166666667
+28:07:00	even the sort of like the champion ones are	ones	-8.14	4	0.577041857	0.426604141	0.697843957	1	0.5	0
+28:08:00	even the sort of like the champion ones are	are	-3.18	2	0.731639388	0.417510853	0.799962084	1	1	0
+29:01:00	even the sort of like the unk ones are	the	-3.32	2	0.537922917	0.199520389	0.664877878	1	0.666666667	0
+29:02:00	even the sort of like the unk ones are	sort	-7.78	4	0.817611179	0.533039132	0.886485191	0.666666667	0.666666667	0.5
+29:03:00	even the sort of like the unk ones are	of	-0.2	2	0.759014466	0.64002209	0.893290755	0.5	0.333333333	0.5
+29:04:00	even the sort of like the unk ones are	like	-4.61	3	0.794628915	0.617932166	0.907579193	0.5	0.833333333	0.333333333
+29:05:00	even the sort of like the unk ones are	the	-1.77	2	0.537922917	0.199520389	0.664877878	1	0.666666667	0
+29:07:00	even the sort of like the unk ones are	ones	-6.45	4	0.577041857	0.426604141	0.697843957	0.333333333	0.833333333	0
+29:08:00	even the sort of like the unk ones are	are	-3.33	2	0.731639388	0.417510853	0.799962084	0.666666667	1	0
+30:01:00	even then there would be unk unk in it	then	-6.38	3	0.833093901	0.713198105	0.872215964	1	0.833333333	0.833333333
+30:02:00	even then there would be unk unk in it	there	-3.98	3	0.761991086	0.50882468	0.890916856	1	1	0.5
+30:03:00	even then there would be unk unk in it	would	-4.64	3	0.831415596	0.638307008	0.890644965	1	1	0
+30:04:00	even then there would be unk unk in it	be	-0.24	2	0.709224335	0.659560437	0.741146158	1	1	0
+30:07:00	even then there would be unk unk in it	in	-4.3	2	0.698548189	0.501917747	0.730330444	1	1	0
+30:08:00	even then there would be unk unk in it	it	-3.71	2	0.827461182	0.765324546	0.914102825	1	1	0
+31:01:00	even then there would be innate unk in it	then	-6.38	3	0.833093901	0.713198105	0.872215964	1	1	1
+31:02:00	even then there would be innate unk in it	there	-3.98	3	0.761991086	0.50882468	0.890916856	1	1	0.833333333
+31:03:00	even then there would be innate unk in it	would	-4.64	3	0.831415596	0.638307008	0.890644965	1	1	0.666666667
+31:04:00	even then there would be innate unk in it	be	-0.24	2	0.709224335	0.659560437	0.741146158	1	1	0.666666667
+31:05:00	even then there would be innate unk in it	innate	-12.91	4	0.778390002	0.656378198	0.906918817	0.166666667	0	0
+31:07:00	even then there would be innate unk in it	in	-4.02	2	0.698548189	0.501917747	0.730330444	0.833333333	1	0
+31:08:00	even then there would be innate unk in it	it	-3.91	2	0.827461182	0.765324546	0.914102825	1	1	0.166666667
+32:01:00	everyone has an accent everyone has a dialect	has	-3.33	3	0.773457703	0.621769748	0.884244516	1	1	1
+32:02:00	everyone has an accent everyone has a dialect	an	-4.63	2	0.797221882	0.62322319	0.889931886	1	1	0.833333333
+32:03:00	everyone has an accent everyone has a dialect	accent	-7.89	6	0.767239533	0.66853951	0.877244357	1	1	0.833333333
+32:04:00	everyone has an accent everyone has a dialect	everyone	-10.5	7	0.724169222	0.58096006	0.878665809	1	1	0.833333333
+32:05:00	everyone has an accent everyone has a dialect	has	-2.79	3	0.773457703	0.621769748	0.884244516	1	1	1
+32:06:00	everyone has an accent everyone has a dialect	a	-2.04	1	0.761481519	0.680891232	0.928979461	1	1	1
+32:07:00	everyone has an accent everyone has a dialect	dialect	-12.08	7	0.734630675	0.610857167	0.915506589	1	1	0.833333333
+33:01:00	everyone has an accent everyone has a unk	has	-3.33	3	0.773457703	0.621769748	0.884244516	1	0.833333333	1
+33:02:00	everyone has an accent everyone has a unk	an	-4.63	2	0.797221882	0.62322319	0.889931886	1	1	0.833333333
+33:03:00	everyone has an accent everyone has a unk	accent	-7.89	6	0.767239533	0.66853951	0.877244357	1	0.833333333	0.666666667
+33:04:00	everyone has an accent everyone has a unk	everyone	-10.5	7	0.724169222	0.58096006	0.878665809	0.833333333	1	1
+33:05:00	everyone has an accent everyone has a unk	has	-2.79	3	0.773457703	0.621769748	0.884244516	1	0.833333333	1
+33:06:00	everyone has an accent everyone has a unk	a	-2.04	1	0.761481519	0.680891232	0.928979461	0.333333333	0.666666667	0.666666667
+34:01:00	for coming up with my clever solution	coming	-8.9	5	0.845590739	0.727580152	0.913967889	1	1	1
+34:02:00	for coming up with my clever solution	up	-1.8	2	0.929872877	0.784745979	0.952129587	0.833333333	0.5	0
+34:03:00	for coming up with my clever solution	with	-2.57	3	0.729751852	0.549177518	0.809624346	1	1	1
+34:04:00	for coming up with my clever solution	my	-3.73	2	0.689805194	0.581828022	0.888419135	0.833333333	0.833333333	0.833333333
+34:05:00	for coming up with my clever solution	clever	-12.29	5	0.837913763	0.724886	0.93260576	1	0.833333333	1
+34:06:00	for coming up with my clever solution	solution	-6.85	7	0.717653526	0.658555811	0.764688126	1	1	0.833333333
+35:01:00	for coming up with my unk solution	coming	-8.9	5	0.845590739	0.727580152	0.913967889	1	0.833333333	0.666666667
+35:02:00	for coming up with my unk solution	up	-1.8	2	0.929872877	0.784745979	0.952129587	0.833333333	0.833333333	0.5
+35:03:00	for coming up with my unk solution	with	-2.57	3	0.729751852	0.549177518	0.809624346	0.833333333	0.5	0.166666667
+35:04:00	for coming up with my unk solution	my	-3.73	2	0.689805194	0.581828022	0.888419135	0.666666667	0.666666667	0
+35:06:00	for coming up with my unk solution	solution	-10.77	7	0.717653526	0.658555811	0.764688126	1	1	0.333333333
+36:01:00	getting old daddy 's going to be sixty this year	old	-6.45	3	0.646686508	0.431437073	0.76308229	0.833333333	0.833333333	0.5
+36:02:00	getting old daddy 's going to be sixty this year	daddy	-10.17	4	0.783543773	0.614844674	0.909296208	0.833333333	1	0.666666667
+36:03:00	getting old daddy 's going to be sixty this year	's	-1.7	3	0.796203933	0.742192137	0.869276556	0.5	0.166666667	0.333333333
+36:04:00	getting old daddy 's going to be sixty this year	going	-4.56	4	0.728950568	0.622081554	0.835352551	0.833333333	1	1
+36:05:00	getting old daddy 's going to be sixty this year	to	-0.21	2	0.564953928	0.45146134	0.788231969	1	1	1
+36:06:00	getting old daddy 's going to be sixty this year	be	-1.27	2	0.709224335	0.659560437	0.741146158	1	1	1
+36:07:00	getting old daddy 's going to be sixty this year	sixty	-8.13	6	0.744923386	0.640377205	0.81572912	1	0.833333333	1
+36:08:00	getting old daddy 's going to be sixty this year	this	-7.11	3	0.745428853	0.598218695	0.821968415	1	1	0.833333333
+36:09:00	getting old daddy 's going to be sixty this year	year	-0.46	3	0.598409242	0.458570848	0.784682023	1	1	1
+37:01:00	getting old papa 's going to be sixty this year	old	-6.45	3	0.646686508	0.431437073	0.76308229	1	0.833333333	0.333333333
+37:02:00	getting old papa 's going to be sixty this year	papa	-12.39	4	0.791046625	0.612062508	0.853904474	0.833333333	0.166666667	0
+37:03:00	getting old papa 's going to be sixty this year	's	-6.18	3	0.796203933	0.742192137	0.869276556	0.333333333	0.166666667	0.166666667
+37:04:00	getting old papa 's going to be sixty this year	going	-5.78	4	0.728950568	0.622081554	0.835352551	0.833333333	1	1
+37:05:00	getting old papa 's going to be sixty this year	to	-0.43	2	0.564953928	0.45146134	0.788231969	0.833333333	1	1
+37:06:00	getting old papa 's going to be sixty this year	be	-1.04	2	0.709224335	0.659560437	0.741146158	1	1	1
+37:07:00	getting old papa 's going to be sixty this year	sixty	-7.84	6	0.744923386	0.640377205	0.81572912	1	1	1
+37:08:00	getting old papa 's going to be sixty this year	this	-7.22	3	0.745428853	0.598218695	0.821968415	1	1	1
+37:09:00	getting old papa 's going to be sixty this year	year	-0.45	3	0.598409242	0.458570848	0.784682023	1	1	1
+38:01:00	have you got a joke grandma unk	you	-3.16	2	0.589431956	0.634635308	0.557849016	1	1	0.5
+38:02:00	have you got a joke grandma unk	got	-3.9	3	0.898186825	0.840551512	0.929103984	1	1	0.833333333
+38:03:00	have you got a joke grandma unk	a	-1.8	1	0.761481519	0.680891232	0.928979461	1	1	0.833333333
+38:04:00	have you got a joke grandma unk	joke	-8.83	3	0.848866492	0.700746095	0.931734383	1	1	1
+38:05:00	have you got a joke grandma unk	grandma	-13.65	7	0.739247271	0.570938739	0.810936264	1	1	0.333333333
+39:01:00	have you got a joke grandmother unk	you	-3.16	2	0.589431956	0.634635308	0.557849016	1	1	0.833333333
+39:02:00	have you got a joke grandmother unk	got	-3.9	3	0.898186825	0.840551512	0.929103984	0.833333333	1	0.833333333
+39:03:00	have you got a joke grandmother unk	a	-1.8	1	0.761481519	0.680891232	0.928979461	1	1	0.833333333
+39:04:00	have you got a joke grandmother unk	joke	-8.83	3	0.848866492	0.700746095	0.931734383	0.833333333	0.833333333	0.833333333
+39:05:00	have you got a joke grandmother unk	grandmother	-13.36	9	0.69155189	0.574601408	0.9067105	1	0.833333333	0
+40:01:00	he could basically just come nobody would care would they unk	could	-4.6	3	0.866933357	0.612272572	0.940696229	0.833333333	1	0
+40:02:00	he could basically just come nobody would care would they unk	basically	-7.94	7	0.686723102	0.52672974	0.811088457	1	1	0.833333333
+40:03:00	he could basically just come nobody would care would they unk	just	-4.82	4	0.8411935	0.745229078	0.843011374	0.666666667	1	0.666666667
+40:04:00	he could basically just come nobody would care would they unk	come	-4.11	3	0.820600969	0.673611291	0.929566862	1	0.666666667	0
+40:05:00	he could basically just come nobody would care would they unk	nobody	-12.42	6	0.689656953	0.541009724	0.830814389	0.5	0.833333333	0.833333333
+40:06:00	he could basically just come nobody would care would they unk	would	-4.7	3	0.831415596	0.638307008	0.890644965	1	1	1
+40:07:00	he could basically just come nobody would care would they unk	care	-6.63	3	0.753324426	0.477568106	0.926918036	1	0.833333333	1
+40:08:00	he could basically just come nobody would care would they unk	would	-7.73	3	0.831415596	0.638307008	0.890644965	1	1	1
+40:09:00	he could basically just come nobody would care would they unk	they	-5.82	2	0.769852066	0.662375908	0.90448277	1	1	1
+41:01:00	he could essentially just come nobody would care would they unk	could	-4.6	3	0.866933357	0.612272572	0.940696229	1	0.833333333	0
+41:02:00	he could essentially just come nobody would care would they unk	essentially	-9.78	8	0.73742205	0.607319675	0.826801975	1	0.833333333	0.166666667
+41:03:00	he could essentially just come nobody would care would they unk	just	-5.07	4	0.8411935	0.745229078	0.843011374	0.833333333	0.5	0
+41:04:00	he could essentially just come nobody would care would they unk	come	-3.98	3	0.820600969	0.673611291	0.929566862	1	0.833333333	0.166666667
+41:05:00	he could essentially just come nobody would care would they unk	nobody	-12.36	6	0.689656953	0.541009724	0.830814389	0.833333333	0.666666667	0
+41:06:00	he could essentially just come nobody would care would they unk	would	-4.63	3	0.831415596	0.638307008	0.890644965	1	1	0.333333333
+41:07:00	he could essentially just come nobody would care would they unk	care	-6.59	3	0.753324426	0.477568106	0.926918036	1	0.833333333	0.5
+41:08:00	he could essentially just come nobody would care would they unk	would	-7.72	3	0.831415596	0.638307008	0.890644965	1	1	0.333333333
+41:09:00	he could essentially just come nobody would care would they unk	they	-5.85	2	0.769852066	0.662375908	0.90448277	1	1	0.333333333
+42:01:00	he might make an exception that weekend if you are up	might	-6.13	3	0.828524308	0.673898519	0.928520435	0.833333333	1	0.666666667
+42:02:00	he might make an exception that weekend if you are up	make	-4.81	3	0.791414629	0.709297158	0.936445517	1	1	0.833333333
+42:03:00	he might make an exception that weekend if you are up	an	-4.74	2	0.797221882	0.62322319	0.889931886	1	1	0.666666667
+42:04:00	he might make an exception that weekend if you are up	exception	-9.41	8	0.856405617	0.774379987	0.908794873	1	0.833333333	0.666666667
+42:05:00	he might make an exception that weekend if you are up	that	-3.87	3	0.858494095	0.774072043	0.960537108	0.833333333	1	0.333333333
+42:06:00	he might make an exception that weekend if you are up	weekend	-11.39	6	0.756050359	0.676565984	0.892846026	1	1	0.5
+42:07:00	he might make an exception that weekend if you are up	if	-4.67	2	0.744759142	0.725225774	0.880699382	1	1	0.333333333
+42:08:00	he might make an exception that weekend if you are up	you	-1.31	2	0.589431956	0.634635308	0.557849016	1	0.666666667	0.666666667
+42:09:00	he might make an exception that weekend if you are up	are	-4.24	2	0.731639388	0.417510853	0.799962084	0.333333333	0.333333333	0
+42:10:00	he might make an exception that weekend if you are up	up	-5.14	2	0.929872877	0.784745979	0.952129587	0.833333333	0.833333333	0.333333333
+43:01:00	he might make an exclusion that weekend if you are up	might	-6.13	3	0.828524308	0.673898519	0.928520435	1	0.833333333	0.333333333
+43:02:00	he might make an exclusion that weekend if you are up	make	-4.81	3	0.791414629	0.709297158	0.936445517	1	1	0.333333333
+43:03:00	he might make an exclusion that weekend if you are up	an	-4.74	2	0.797221882	0.62322319	0.889931886	1	1	0.333333333
+43:04:00	he might make an exclusion that weekend if you are up	exclusion	-11.77	9	0.652875625	0.585748914	0.823150059	0.833333333	1	0.833333333
+43:05:00	he might make an exclusion that weekend if you are up	that	-5.69	3	0.858494095	0.774072043	0.960537108	1	0.5	0.333333333
+43:06:00	he might make an exclusion that weekend if you are up	weekend	-11.1	6	0.756050359	0.676565984	0.892846026	0.833333333	1	0.333333333
+43:07:00	he might make an exclusion that weekend if you are up	if	-4.7	2	0.744759142	0.725225774	0.880699382	1	1	0.166666667
+43:08:00	he might make an exclusion that weekend if you are up	you	-1.26	2	0.589431956	0.634635308	0.557849016	1	0.666666667	0.166666667
+43:09:00	he might make an exclusion that weekend if you are up	are	-4.28	2	0.731639388	0.417510853	0.799962084	0.166666667	0.666666667	0.166666667
+43:10:00	he might make an exclusion that weekend if you are up	up	-5.11	2	0.929872877	0.784745979	0.952129587	1	1	0.5
+44:01:00	i did ask for your frog in the hole for you	did	-4.23	3	0.690796901	0.530016586	0.836438525	0.666666667	0.166666667	0.333333333
+44:02:00	i did ask for your frog in the hole for you	ask	-9.07	3	0.732914218	0.635947147	0.835742029	1	1	0.666666667
+44:03:00	i did ask for your frog in the hole for you	for	-3.38	3	0.683631202	0.429919015	0.7482703	1	1	0.666666667
+44:04:00	i did ask for your frog in the hole for you	your	-5.22	3	0.77838118	0.385199197	0.836574006	0.333333333	0.666666667	0
+44:05:00	i did ask for your frog in the hole for you	frog	-12.59	4	0.855143437	0.620404883	0.927191916	0.666666667	1	0.5
+44:06:00	i did ask for your frog in the hole for you	in	-6.43	2	0.698548189	0.501917747	0.730330444	0.666666667	1	0.5
+44:07:00	i did ask for your frog in the hole for you	the	-1.69	2	0.537922917	0.199520389	0.664877878	0.833333333	1	0.166666667
+44:08:00	i did ask for your frog in the hole for you	hole	-7.43	3	0.747331109	0.634438446	0.885653242	0.5	0.5	0
+44:09:00	i did ask for your frog in the hole for you	for	-3.96	3	0.683631202	0.429919015	0.7482703	1	1	0.666666667
+44:10:00	i did ask for your frog in the hole for you	you	-3.28	2	0.589431956	0.634635308	0.557849016	1	0.5	0.833333333
+45:01:00	i did ask for your unk in the hole for you	did	-4.23	3	0.690796901	0.530016586	0.836438525	0.5	0.666666667	0.5
+45:02:00	i did ask for your unk in the hole for you	ask	-9.07	3	0.732914218	0.635947147	0.835742029	0.5	0.833333333	0.666666667
+45:03:00	i did ask for your unk in the hole for you	for	-3.38	3	0.683631202	0.429919015	0.7482703	1	1	0.5
+45:04:00	i did ask for your unk in the hole for you	your	-5.22	3	0.77838118	0.385199197	0.836574006	0.333333333	0.5	0
+45:06:00	i did ask for your unk in the hole for you	in	-4.78	2	0.698548189	0.501917747	0.730330444	1	1	0.666666667
+45:07:00	i did ask for your unk in the hole for you	the	-1.58	2	0.537922917	0.199520389	0.664877878	1	1	0.833333333
+45:08:00	i did ask for your unk in the hole for you	hole	-7.58	3	0.747331109	0.634438446	0.885653242	1	1	0.833333333
+45:09:00	i did ask for your unk in the hole for you	for	-3.9	3	0.683631202	0.429919015	0.7482703	1	1	0.5
+45:10:00	i did ask for your unk in the hole for you	you	-3.25	2	0.589431956	0.634635308	0.557849016	1	1	0.333333333
+46:02:00	i unk some package and it did not work	some	-5.39	3	0.82445674	0.931530056	0.942474391	1	0.5	0.333333333
+46:03:00	i unk some package and it did not work	package	-10.18	5	0.814900916	0.728514868	0.832443815	1	1	0.833333333
+46:04:00	i unk some package and it did not work	and	-3.87	3	0.787526494	0.643693002	0.870525041	1	1	0.833333333
+46:05:00	i unk some package and it did not work	it	-4.73	2	0.827461182	0.765324546	0.914102825	1	1	1
+46:06:00	i unk some package and it did not work	did	-5.43	3	0.690796901	0.530016586	0.836438525	1	1	1
+46:07:00	i unk some package and it did not work	not	-3.2	3	0.83510231	0.774108485	0.955440843	1	0.833333333	1
+46:08:00	i unk some package and it did not work	work	-2.66	3	0.829268597	0.636914856	0.805452379	1	1	1
+47:02:00	i unk some software and it did not work	some	-5.39	3	0.82445674	0.931530056	0.942474391	1	1	0.666666667
+47:03:00	i unk some software and it did not work	software	-8.83	7	0.846029598	0.723318619	0.900684864	1	1	1
+47:04:00	i unk some software and it did not work	and	-3.23	3	0.787526494	0.643693002	0.870525041	1	1	0.666666667
+47:05:00	i unk some software and it did not work	it	-4.79	2	0.827461182	0.765324546	0.914102825	1	1	1
+47:06:00	i unk some software and it did not work	did	-5.5	3	0.690796901	0.530016586	0.836438525	1	1	1
+47:07:00	i unk some software and it did not work	not	-3.2	3	0.83510231	0.774108485	0.955440843	1	1	1
+47:08:00	i unk some software and it did not work	work	-2.62	3	0.829268597	0.636914856	0.805452379	1	1	1
+48:02:00	i unk we have never been in a premier inn	we	-4.69	2	0.690625393	0.385075561	0.802476881	1	1	0.5
+48:03:00	i unk we have never been in a premier inn	have	-2.3	3	0.749897515	0.655628398	0.898080459	1	0.833333333	0.5
+48:04:00	i unk we have never been in a premier inn	never	-5.47	4	0.817607558	0.735901526	0.922761522	1	1	0.666666667
+48:05:00	i unk we have never been in a premier inn	been	-1.73	3	0.526757082	0.459386578	0.659084664	1	1	0.666666667
+48:06:00	i unk we have never been in a premier inn	in	-2.42	2	0.698548189	0.501917747	0.730330444	1	1	0.333333333
+48:07:00	i unk we have never been in a premier inn	a	-2.12	1	0.761481519	0.680891232	0.928979461	0.833333333	1	0.166666667
+48:08:00	i unk we have never been in a premier inn	premier	-12.18	6	0.780217237	0.659360641	0.925389522	1	1	0.333333333
+48:09:00	i unk we have never been in a premier inn	inn	-10.47	2	0.825430217	0.4364362	0.826899802	1	1	0.333333333
+49:02:00	i unk we have never been in a premier lodge	we	-4.69	2	0.690625393	0.385075561	0.802476881	1	1	0.5
+49:03:00	i unk we have never been in a premier lodge	have	-2.3	3	0.749897515	0.655628398	0.898080459	0.833333333	1	0.333333333
+49:04:00	i unk we have never been in a premier lodge	never	-5.47	4	0.817607558	0.735901526	0.922761522	1	1	0.833333333
+49:05:00	i unk we have never been in a premier lodge	been	-1.73	3	0.526757082	0.459386578	0.659084664	1	1	1
+49:06:00	i unk we have never been in a premier lodge	in	-2.42	2	0.698548189	0.501917747	0.730330444	0.833333333	1	0.666666667
+49:07:00	i unk we have never been in a premier lodge	a	-2.12	1	0.761481519	0.680891232	0.928979461	0.833333333	1	0.333333333
+49:08:00	i unk we have never been in a premier lodge	premier	-12.18	6	0.780217237	0.659360641	0.925389522	1	1	1
+49:09:00	i unk we have never been in a premier lodge	lodge	-10.51	3	0.822004864	0.734535611	0.898728697	1	0.833333333	0.333333333
+50:01:00	i know it is a bit more vast and unk but	know	-3.78	2	0.799041758	0.513410565	0.871580729	1	1	0.833333333
+50:02:00	i know it is a bit more vast and unk but	it	-2.99	2	0.827461182	0.765324546	0.914102825	1	1	0.666666667
+50:03:00	i know it is a bit more vast and unk but	is	-2.73	2	0.678812749	0.555596235	0.663419503	1	1	0.666666667
+50:04:00	i know it is a bit more vast and unk but	a	-2.57	1	0.761481519	0.680891232	0.928979461	1	1	0.166666667
+50:05:00	i know it is a bit more vast and unk but	bit	-6.29	3	0.759860496	0.739109091	0.901813986	1	1	0.166666667
+50:06:00	i know it is a bit more vast and unk but	more	-2.36	3	0.57248485	0.339456155	0.66307341	1	0.833333333	0.166666667
+50:07:00	i know it is a bit more vast and unk but	vast	-11.25	4	0.736352542	0.62377969	0.853474965	1	0.833333333	0.166666667
+50:08:00	i know it is a bit more vast and unk but	and	-4.84	3	0.787526494	0.643693002	0.870525041	1	1	0.333333333
+50:10:00	i know it is a bit more vast and unk but	but	-3.67	3	0.843730714	0.775294092	0.966911146	1	0.833333333	0
+51:01:00	i know it is a bit more vast and rough but	know	-3.78	2	0.799041758	0.513410565	0.871580729	1	1	1
+51:02:00	i know it is a bit more vast and rough but	it	-2.99	2	0.827461182	0.765324546	0.914102825	1	1	1
+51:03:00	i know it is a bit more vast and rough but	is	-2.73	2	0.678812749	0.555596235	0.663419503	1	1	1
+51:04:00	i know it is a bit more vast and rough but	a	-2.57	1	0.761481519	0.680891232	0.928979461	1	0.833333333	0
+51:05:00	i know it is a bit more vast and rough but	bit	-6.29	3	0.759860496	0.739109091	0.901813986	1	1	0
+51:06:00	i know it is a bit more vast and rough but	more	-2.36	3	0.57248485	0.339456155	0.66307341	1	0.833333333	0
+51:07:00	i know it is a bit more vast and rough but	vast	-11.25	4	0.736352542	0.62377969	0.853474965	1	0.833333333	0
+51:08:00	i know it is a bit more vast and rough but	and	-4.84	3	0.787526494	0.643693002	0.870525041	1	0.833333333	0
+51:09:00	i know it is a bit more vast and rough but	rough	-8.35	3	0.874829422	0.759899814	0.917332033	1	0.666666667	0
+51:10:00	i know it is a bit more vast and rough but	but	-5.43	3	0.843730714	0.775294092	0.966911146	1	0.666666667	0.166666667
+52:01:00	i say club it was more of a disco	say	-6.38	2	0.82635397	0.756810246	0.954856433	1	1	0.166666667
+52:02:00	i say club it was more of a disco	club	-11.4	4	0.821728492	0.634200806	0.922461698	0.666666667	0.5	0
+52:03:00	i say club it was more of a disco	it	-4.6	2	0.827461182	0.765324546	0.914102825	1	0.833333333	0.166666667
+52:04:00	i say club it was more of a disco	was	-3.27	3	0.727564693	0.537003996	0.760263436	1	1	0.166666667
+52:05:00	i say club it was more of a disco	more	-4.93	3	0.57248485	0.339456155	0.66307341	1	1	0.5
+52:06:00	i say club it was more of a disco	of	-2.37	2	0.759014466	0.64002209	0.893290755	1	1	0.333333333
+52:07:00	i say club it was more of a disco	a	-0.26	1	0.761481519	0.680891232	0.928979461	1	1	0.666666667
+52:08:00	i say club it was more of a disco	disco	-11.82	5	0.777967232	0.644240366	0.865272417	1	1	0.333333333
+53:01:00	i say unk it was more of a disco	say	-6.38	2	0.82635397	0.756810246	0.954856433	1	1	0.333333333
+53:03:00	i say unk it was more of a disco	it	-3.54	2	0.827461182	0.765324546	0.914102825	1	0.833333333	0.333333333
+53:04:00	i say unk it was more of a disco	was	-2.9	3	0.727564693	0.537003996	0.760263436	1	0.833333333	0.333333333
+53:05:00	i say unk it was more of a disco	more	-5.17	3	0.57248485	0.339456155	0.66307341	1	1	0.5
+53:06:00	i say unk it was more of a disco	of	-2.32	2	0.759014466	0.64002209	0.893290755	1	1	0.5
+53:07:00	i say unk it was more of a disco	a	-0.24	1	0.761481519	0.680891232	0.928979461	1	1	0.5
+53:08:00	i say unk it was more of a disco	disco	-11.86	5	0.777967232	0.644240366	0.865272417	1	0.833333333	0.833333333
+54:01:00	i think it is a splendid idea	think	-2.64	4	0.848501602	0.509958674	0.892166455	1	1	1
+54:02:00	i think it is a splendid idea	it	-1.94	2	0.827461182	0.765324546	0.914102825	1	1	1
+54:03:00	i think it is a splendid idea	is	-2.9	2	0.678812749	0.555596235	0.663419503	1	1	1
+54:04:00	i think it is a splendid idea	a	-2.23	1	0.761481519	0.680891232	0.928979461	1	1	1
+54:05:00	i think it is a splendid idea	splendid	-11.89	8	0.744287551	0.576020281	0.850822945	1	1	1
+54:06:00	i think it is a splendid idea	idea	-4.83	4	0.691913527	0.539927464	0.852051651	1	1	1
+55:01:00	i think it is an excellent idea	think	-2.64	4	0.848501602	0.509958674	0.892166455	1	1	1
+55:02:00	i think it is an excellent idea	it	-1.94	2	0.827461182	0.765324546	0.914102825	1	1	0.833333333
+55:03:00	i think it is an excellent idea	is	-2.9	2	0.678812749	0.555596235	0.663419503	1	1	1
+55:04:00	i think it is an excellent idea	an	-4.72	2	0.797221882	0.62322319	0.889931886	0.833333333	1	1
+55:05:00	i think it is an excellent idea	excellent	-2.46	8	0.780827718	0.584968711	0.861632416	1	1	1
+55:06:00	i think it is an excellent idea	idea	-1.32	4	0.691913527	0.539927464	0.852051651	1	1	1
+56:01:00	i think that 's the backup booklet which	think	-2.64	4	0.848501602	0.509958674	0.892166455	0.833333333	1	1
+56:02:00	i think that 's the backup booklet which	that	-1.92	3	0.858494095	0.774072043	0.960537108	0.833333333	0.5	0.5
+56:03:00	i think that 's the backup booklet which	's	-1.19	3	0.796203933	0.742192137	0.869276556	0.5	0.333333333	0
+56:04:00	i think that 's the backup booklet which	the	-2.51	2	0.537922917	0.199520389	0.664877878	0.833333333	0.666666667	0
+56:05:00	i think that 's the backup booklet which	backup	-11.93	5	0.803998716	0.760521649	0.913229789	0.333333333	0.333333333	0
+56:06:00	i think that 's the backup booklet which	booklet	-11.19	6	0.753396736	0.585575782	0.889659878	0.666666667	0.166666667	0
+56:07:00	i think that 's the backup booklet which	which	-6.34	3	0.851734955	0.650253999	0.915712318	0.833333333	0.833333333	0
+57:01:00	i think that 's the backup folder which	think	-2.64	4	0.848501602	0.509958674	0.892166455	1	1	1
+57:02:00	i think that 's the backup folder which	that	-1.92	3	0.858494095	0.774072043	0.960537108	0.666666667	0.833333333	0.333333333
+57:03:00	i think that 's the backup folder which	's	-1.19	3	0.796203933	0.742192137	0.869276556	0.666666667	0.666666667	0.333333333
+57:04:00	i think that 's the backup folder which	the	-2.51	2	0.537922917	0.199520389	0.664877878	1	1	0.5
+57:05:00	i think that 's the backup folder which	backup	-11.93	5	0.803998716	0.760521649	0.913229789	0.333333333	0.666666667	0.333333333
+57:06:00	i think that 's the backup folder which	folder	-12.78	5	0.774863673	0.647650624	0.856862521	0.833333333	0.833333333	0
+57:07:00	i think that 's the backup folder which	which	-6.3	3	0.851734955	0.650253999	0.915712318	0.833333333	1	1
+58:01:00	i think would have insisted somebody else move in almost immediately so	think	-2.64	4	0.848501602	0.509958674	0.892166455	1	1	0.833333333
+58:02:00	i think would have insisted somebody else move in almost immediately so	would	-6.62	3	0.831415596	0.638307008	0.890644965	0.666666667	0.666666667	0.166666667
+58:03:00	i think would have insisted somebody else move in almost immediately so	have	-2.83	3	0.749897515	0.655628398	0.898080459	0.5	0.666666667	0.333333333
+58:04:00	i think would have insisted somebody else move in almost immediately so	insisted	-13.5	8	0.635987384	0.564666595	0.832262641	0.666666667	0.5	0.666666667
+58:05:00	i think would have insisted somebody else move in almost immediately so	somebody	-10.78	7	0.75445848	0.580533262	0.849969049	0.166666667	0	0.166666667
+58:06:00	i think would have insisted somebody else move in almost immediately so	else	-2.99	3	0.783060424	0.56465525	0.814726136	0.5	0	0.166666667
+58:07:00	i think would have insisted somebody else move in almost immediately so	move	-10.06	3	0.449175767	0.405382986	0.5052566	0.833333333	0.5	0
+58:08:00	i think would have insisted somebody else move in almost immediately so	in	-2.6	2	0.698548189	0.501917747	0.730330444	0.833333333	0.5	0
+58:09:00	i think would have insisted somebody else move in almost immediately so	almost	-9.21	6	0.533334135	0.474215416	0.788673031	0.333333333	0.166666667	0.333333333
+58:10:00	i think would have insisted somebody else move in almost immediately so	immediately	-10.02	9	0.625759709	0.484792301	0.659373906	1	1	0.833333333
+58:11:00	i think would have insisted somebody else move in almost immediately so	so	-5.12	2	0.827959454	0.786175267	0.945709785	0.666666667	0.833333333	0.833333333
+59:01:00	i think would have insisted somebody else move in almost unk so	think	-2.64	4	0.848501602	0.509958674	0.892166455	1	0.833333333	0.666666667
+59:02:00	i think would have insisted somebody else move in almost unk so	would	-6.62	3	0.831415596	0.638307008	0.890644965	1	0.833333333	0
+59:03:00	i think would have insisted somebody else move in almost unk so	have	-2.83	3	0.749897515	0.655628398	0.898080459	0.833333333	0.666666667	0
+59:04:00	i think would have insisted somebody else move in almost unk so	insisted	-13.5	8	0.635987384	0.564666595	0.832262641	0.666666667	0.666666667	0.5
+59:05:00	i think would have insisted somebody else move in almost unk so	somebody	-10.78	7	0.75445848	0.580533262	0.849969049	0.333333333	0	0.333333333
+59:06:00	i think would have insisted somebody else move in almost unk so	else	-2.99	3	0.783060424	0.56465525	0.814726136	0.333333333	0.333333333	0.166666667
+59:07:00	i think would have insisted somebody else move in almost unk so	move	-10.06	3	0.449175767	0.405382986	0.5052566	1	0.833333333	0
+59:08:00	i think would have insisted somebody else move in almost unk so	in	-2.6	2	0.698548189	0.501917747	0.730330444	1	0.833333333	0
+59:09:00	i think would have insisted somebody else move in almost unk so	almost	-9.21	6	0.533334135	0.474215416	0.788673031	0.166666667	0.166666667	0
+59:11:00	i think would have insisted somebody else move in almost unk so	so	-4.92	2	0.827959454	0.786175267	0.945709785	0.666666667	0.5	0
+60:01:00	i 'm not much of a deep mind	'm	-3.14	2	0.79305587	0.646962235	0.915118922	0.833333333	0.833333333	0.666666667
+60:02:00	i 'm not much of a deep mind	not	-1.97	3	0.83510231	0.774108485	0.955440843	1	1	0.833333333
+60:03:00	i 'm not much of a deep mind	much	-5.55	3	0.816753897	0.746758217	0.928708972	1	1	0.666666667
+60:04:00	i 'm not much of a deep mind	of	-1.76	2	0.759014466	0.64002209	0.893290755	1	1	0.666666667
+60:05:00	i 'm not much of a deep mind	a	-0.31	1	0.761481519	0.680891232	0.928979461	1	1	0.666666667
+60:06:00	i 'm not much of a deep mind	deep	-8.53	3	0.681900972	0.670523993	0.802667911	1	0.666666667	0
+60:07:00	i 'm not much of a deep mind	mind	-8.27	4	0.65917505	0.62742921	0.827034324	1	0.666666667	0
+61:01:00	i 'm not much of a deep unk	'm	-3.14	2	0.79305587	0.646962235	0.915118922	0.666666667	0.833333333	0.666666667
+61:02:00	i 'm not much of a deep unk	not	-1.97	3	0.83510231	0.774108485	0.955440843	1	1	1
+61:03:00	i 'm not much of a deep unk	much	-5.55	3	0.816753897	0.746758217	0.928708972	1	1	1
+61:04:00	i 'm not much of a deep unk	of	-1.76	2	0.759014466	0.64002209	0.893290755	1	1	1
+61:05:00	i 'm not much of a deep unk	a	-0.31	1	0.761481519	0.680891232	0.928979461	1	1	1
+61:06:00	i 'm not much of a deep unk	deep	-8.53	3	0.681900972	0.670523993	0.802667911	1	1	0.333333333
+62:01:00	is he some sort of unk unk	he	-6.26	2	0.646541566	0.456382688	0.733534039	1	1	0.333333333
+62:02:00	is he some sort of unk unk	some	-7.43	3	0.82445674	0.931530056	0.942474391	1	1	0.333333333
+62:03:00	is he some sort of unk unk	sort	-3.31	4	0.817611179	0.533039132	0.886485191	1	1	0.333333333
+62:04:00	is he some sort of unk unk	of	-0.02	2	0.759014466	0.64002209	0.893290755	1	1	0.333333333
+63:01:00	is he some sort of unk unk	he	-6.26	2	0.646541566	0.456382688	0.733534039	0.833333333	1	0.333333333
+63:02:00	is he some sort of unk unk	some	-7.43	3	0.82445674	0.931530056	0.942474391	1	1	0.5
+63:03:00	is he some sort of unk unk	sort	-3.31	4	0.817611179	0.533039132	0.886485191	1	1	0.5
+63:04:00	is he some sort of unk unk	of	-0.02	2	0.759014466	0.64002209	0.893290755	1	1	0.5
+64:01:00	is that you have a abstract which is the unk	that	-2.66	3	0.858494095	0.774072043	0.960537108	0.833333333	0.5	0.166666667
+64:02:00	is that you have a abstract which is the unk	you	-2.72	2	0.589431956	0.634635308	0.557849016	0.666666667	0.666666667	0.666666667
+64:03:00	is that you have a abstract which is the unk	have	-2.89	3	0.749897515	0.655628398	0.898080459	0.666666667	0.833333333	0.666666667
+64:04:00	is that you have a abstract which is the unk	a	-1.94	1	0.761481519	0.680891232	0.928979461	0	0	0
+64:05:00	is that you have a abstract which is the unk	abstract	-12.71	8	0.842548807	0.795634646	0.925081702	1	1	0.833333333
+64:06:00	is that you have a abstract which is the unk	which	-7.77	3	0.851734955	0.650253999	0.915712318	0.833333333	0.833333333	0.666666667
+64:07:00	is that you have a abstract which is the unk	is	-0.77	2	0.678812749	0.555596235	0.663419503	1	1	0.833333333
+64:08:00	is that you have a abstract which is the unk	the	-2.99	2	0.537922917	0.199520389	0.664877878	0.833333333	0.833333333	0.833333333
+65:01:00	is that you have a synopsis which is the unk	that	-2.66	3	0.858494095	0.774072043	0.960537108	0.666666667	0.333333333	0.166666667
+65:02:00	is that you have a synopsis which is the unk	you	-2.72	2	0.589431956	0.634635308	0.557849016	1	0.5	0.833333333
+65:03:00	is that you have a synopsis which is the unk	have	-2.89	3	0.749897515	0.655628398	0.898080459	1	0.666666667	0.833333333
+65:04:00	is that you have a synopsis which is the unk	a	-1.94	1	0.761481519	0.680891232	0.928979461	0.5	0.666666667	0.666666667
+65:05:00	is that you have a synopsis which is the unk	synopsis	-11.82	8	0.741893963	0.673057489	0.842614609	0.833333333	0.833333333	0.5
+65:06:00	is that you have a synopsis which is the unk	which	-7.24	3	0.851734955	0.650253999	0.915712318	0.833333333	1	0.666666667
+65:07:00	is that you have a synopsis which is the unk	is	-0.6	2	0.678812749	0.555596235	0.663419503	1	1	0.666666667
+65:08:00	is that you have a synopsis which is the unk	the	-2.98	2	0.537922917	0.199520389	0.664877878	0.833333333	1	0.666666667
+66:01:00	it is almost half price that is	is	-3.03	2	0.678812749	0.555596235	0.663419503	0.833333333	1	0.333333333
+66:02:00	it is almost half price that is	almost	-6.21	6	0.533334135	0.474215416	0.788673031	0.833333333	1	0.5
+66:03:00	it is almost half price that is	half	-6.92	3	0.716748303	0.486599482	0.80669679	0.833333333	1	0.166666667
+66:04:00	it is almost half price that is	price	-8.89	4	0.870580181	0.65684642	0.909419701	0.833333333	1	0
+66:05:00	it is almost half price that is	that	-3.85	3	0.858494095	0.774072043	0.960537108	0	0	0.166666667
+66:06:00	it is almost half price that is	is	-3.47	2	0.678812749	0.555596235	0.663419503	0.833333333	1	0.333333333
+67:01:00	it is incredible yeah it is really incredible	is	-3.03	2	0.678812749	0.555596235	0.663419503	1	1	1
+67:02:00	it is incredible yeah it is really incredible	incredible	-7.63	10	0.788789085	0.633744315	0.885607217	1	1	1
+67:03:00	it is incredible yeah it is really incredible	yeah	-7.13	2	0.781205064	0.491194682	0.875546427	0.833333333	0.833333333	0.5
+67:04:00	it is incredible yeah it is really incredible	it	-4.64	2	0.827461182	0.765324546	0.914102825	1	1	1
+67:05:00	it is incredible yeah it is really incredible	is	-1.46	2	0.678812749	0.555596235	0.663419503	1	1	1
+67:06:00	it is incredible yeah it is really incredible	really	-4.68	4	0.552563749	0.481660549	0.701970351	0.666666667	1	0.833333333
+67:07:00	it is incredible yeah it is really incredible	incredible	-6.84	10	0.788789085	0.633744315	0.885607217	1	1	1
+68:01:00	it is just that it is a nice sentiment i agree	is	-3.03	2	0.678812749	0.555596235	0.663419503	1	0.833333333	0.666666667
+68:02:00	it is just that it is a nice sentiment i agree	just	-3.55	4	0.8411935	0.745229078	0.843011374	1	0.666666667	0.666666667
+68:03:00	it is just that it is a nice sentiment i agree	that	-4	3	0.858494095	0.774072043	0.960537108	0.833333333	0.166666667	0
+68:04:00	it is just that it is a nice sentiment i agree	it	-2.55	2	0.827461182	0.765324546	0.914102825	1	0.833333333	0.5
+68:05:00	it is just that it is a nice sentiment i agree	is	-2.34	2	0.678812749	0.555596235	0.663419503	1	0.833333333	0.666666667
+68:06:00	it is just that it is a nice sentiment i agree	a	-2.25	1	0.761481519	0.680891232	0.928979461	1	1	0.166666667
+68:07:00	it is just that it is a nice sentiment i agree	nice	-4.37	3	0.769117583	0.591901546	0.845858705	1	0.666666667	0.5
+68:08:00	it is just that it is a nice sentiment i agree	sentiment	-12.44	9	0.763030852	0.604110337	0.865308395	1	0.833333333	0.833333333
+68:09:00	it is just that it is a nice sentiment i agree	i	-4.95	1	0.698881221	0.523162631	0.851248487	1	0.833333333	0.166666667
+68:10:00	it is just that it is a nice sentiment i agree	agree	-6.24	4	0.685194677	0.490463345	0.806801005	1	0.833333333	0.166666667
+69:01:00	it is just that it is a nice thought i agree	is	-3.03	2	0.678812749	0.555596235	0.663419503	1	1	0.166666667
+69:02:00	it is just that it is a nice thought i agree	just	-3.55	4	0.8411935	0.745229078	0.843011374	1	0.833333333	0
+69:03:00	it is just that it is a nice thought i agree	that	-4	3	0.858494095	0.774072043	0.960537108	0.666666667	0.166666667	0
+69:04:00	it is just that it is a nice thought i agree	it	-2.55	2	0.827461182	0.765324546	0.914102825	1	1	0.166666667
+69:05:00	it is just that it is a nice thought i agree	is	-2.34	2	0.678812749	0.555596235	0.663419503	1	1	0.166666667
+69:06:00	it is just that it is a nice thought i agree	a	-2.25	1	0.761481519	0.680891232	0.928979461	0.833333333	0.666666667	0.333333333
+69:07:00	it is just that it is a nice thought i agree	nice	-4.37	3	0.769117583	0.591901546	0.845858705	0.833333333	0.666666667	1
+69:08:00	it is just that it is a nice thought i agree	thought	-6.29	3	0.727547829	0.548329279	0.73992005	1	0.833333333	0.666666667
+69:09:00	it is just that it is a nice thought i agree	i	-4.49	1	0.698881221	0.523162631	0.851248487	1	1	0.5
+69:10:00	it is just that it is a nice thought i agree	agree	-5.84	4	0.685194677	0.490463345	0.806801005	1	0.833333333	0.5
+70:01:00	it is like that quiz question no	is	-3.03	2	0.678812749	0.555596235	0.663419503	1	0.833333333	0.5
+70:02:00	it is like that quiz question no	like	-3.85	3	0.794628915	0.617932166	0.907579193	1	0.833333333	0.5
+70:03:00	it is like that quiz question no	that	-3.96	3	0.858494095	0.774072043	0.960537108	0	0	0
+70:04:00	it is like that quiz question no	quiz	-13.3	4	0.758443097	0.541732414	0.893835234	1	0.5	0.333333333
+70:05:00	it is like that quiz question no	question	-11.24	7	0.809020197	0.683555221	0.869673149	0.833333333	1	0.833333333
+70:06:00	it is like that quiz question no	no	-7.78	2	0.774103354	0.446968074	0.912455865	0.833333333	0.833333333	0.333333333
+71:01:00	it is like that test question no	is	-3.03	2	0.678812749	0.555596235	0.663419503	1	1	0.833333333
+71:02:00	it is like that test question no	like	-3.85	3	0.794628915	0.617932166	0.907579193	1	1	1
+71:03:00	it is like that test question no	that	-3.96	3	0.858494095	0.774072043	0.960537108	1	1	0.833333333
+71:04:00	it is like that test question no	test	-10.4	4	0.838166943	0.782472609	0.902896596	1	1	0.833333333
+71:05:00	it is like that test question no	question	-9.48	7	0.809020197	0.683555221	0.869673149	1	1	0.666666667
+71:06:00	it is like that test question no	no	-7.18	2	0.774103354	0.446968074	0.912455865	1	0.833333333	0
+72:01:00	it is on the unk with the mustard	is	-3.03	2	0.678812749	0.555596235	0.663419503	1	0.666666667	0.833333333
+72:02:00	it is on the unk with the mustard	on	-4.97	2	0.694200493	0.560230393	0.789810954	0.833333333	0.833333333	0.333333333
+72:03:00	it is on the unk with the mustard	the	-1.15	2	0.537922917	0.199520389	0.664877878	0.833333333	0.833333333	0.333333333
+72:05:00	it is on the unk with the mustard	with	-4.98	3	0.729751852	0.549177518	0.809624346	0.833333333	0.833333333	0
+72:06:00	it is on the unk with the mustard	the	-1	2	0.537922917	0.199520389	0.664877878	0.833333333	0.833333333	0.333333333
+72:07:00	it is on the unk with the mustard	mustard	-10.88	6	0.742622732	0.701060986	0.858356671	0.833333333	0.666666667	0.166666667
+73:01:00	it is on the shelf with the mustard	is	-3.03	2	0.678812749	0.555596235	0.663419503	1	1	0.666666667
+73:02:00	it is on the shelf with the mustard	on	-4.97	2	0.694200493	0.560230393	0.789810954	1	1	1
+73:03:00	it is on the shelf with the mustard	the	-1.15	2	0.537922917	0.199520389	0.664877878	1	1	1
+73:04:00	it is on the shelf with the mustard	shelf	-9.75	4	0.827904115	0.796684667	0.935068789	1	1	1
+73:05:00	it is on the shelf with the mustard	with	-5.85	3	0.729751852	0.549177518	0.809624346	1	0.833333333	0.833333333
+73:06:00	it is on the shelf with the mustard	the	-1.16	2	0.537922917	0.199520389	0.664877878	1	1	1
+73:07:00	it is on the shelf with the mustard	mustard	-10.94	6	0.742622732	0.701060986	0.858356671	1	0.833333333	0.833333333
+74:01:00	it is unbelievable yeah it is really unbelievable	is	-3.03	2	0.678812749	0.555596235	0.663419503	1	1	1
+74:02:00	it is unbelievable yeah it is really unbelievable	unbelievable	-8.65	11	0.650158702	0.490616358	0.792308383	1	1	0.833333333
+74:03:00	it is unbelievable yeah it is really unbelievable	yeah	-7.22	2	0.781205064	0.491194682	0.875546427	1	0.666666667	0.5
+74:04:00	it is unbelievable yeah it is really unbelievable	it	-4.94	2	0.827461182	0.765324546	0.914102825	1	1	1
+74:05:00	it is unbelievable yeah it is really unbelievable	is	-1.52	2	0.678812749	0.555596235	0.663419503	1	1	1
+74:06:00	it is unbelievable yeah it is really unbelievable	really	-4.82	4	0.552563749	0.481660549	0.701970351	0.833333333	0.833333333	1
+74:07:00	it is unbelievable yeah it is really unbelievable	unbelievable	-7.85	11	0.650158702	0.490616358	0.792308383	1	1	0.833333333
+75:01:00	it is virtually half price that is	is	-3.03	2	0.678812749	0.555596235	0.663419503	1	1	0.833333333
+75:02:00	it is virtually half price that is	virtually	-10.9	7	0.679631792	0.575969775	0.825920417	1	1	0.833333333
+75:03:00	it is virtually half price that is	half	-7.95	3	0.716748303	0.486599482	0.80669679	1	1	0.833333333
+75:04:00	it is virtually half price that is	price	-8.95	4	0.870580181	0.65684642	0.909419701	0.833333333	1	0.666666667
+75:05:00	it is virtually half price that is	that	-3.65	3	0.858494095	0.774072043	0.960537108	0	0	0.166666667
+75:06:00	it is virtually half price that is	is	-3.46	2	0.678812749	0.555596235	0.663419503	1	1	0.833333333
+76:01:00	it was like i thought it was a fake	was	-2.75	3	0.727564693	0.537003996	0.760263436	1	1	0.5
+76:02:00	it was like i thought it was a fake	like	-3.36	3	0.794628915	0.617932166	0.907579193	1	1	0
+76:03:00	it was like i thought it was a fake	i	-3.27	1	0.698881221	0.523162631	0.851248487	1	0.833333333	0.166666667
+76:04:00	it was like i thought it was a fake	thought	-3.62	3	0.727547829	0.548329279	0.73992005	1	0.833333333	0.5
+76:05:00	it was like i thought it was a fake	it	-1.6	2	0.827461182	0.765324546	0.914102825	1	1	0.5
+76:06:00	it was like i thought it was a fake	was	-0.26	3	0.727564693	0.537003996	0.760263436	1	1	0.5
+76:07:00	it was like i thought it was a fake	a	-2.02	1	0.761481519	0.680891232	0.928979461	1	0.666666667	0
+76:08:00	it was like i thought it was a fake	fake	-11.48	3	0.918096256	0.832265651	0.959606136	1	1	0.166666667
+77:01:00	it was like i thought it was an unk	was	-2.75	3	0.727564693	0.537003996	0.760263436	1	1	0.833333333
+77:02:00	it was like i thought it was an unk	like	-3.36	3	0.794628915	0.617932166	0.907579193	1	1	0.5
+77:03:00	it was like i thought it was an unk	i	-3.27	1	0.698881221	0.523162631	0.851248487	0.833333333	1	0.333333333
+77:04:00	it was like i thought it was an unk	thought	-3.62	3	0.727547829	0.548329279	0.73992005	1	1	0.166666667
+77:05:00	it was like i thought it was an unk	it	-1.6	2	0.827461182	0.765324546	0.914102825	1	1	0.833333333
+77:06:00	it was like i thought it was an unk	was	-0.26	3	0.727564693	0.537003996	0.760263436	1	1	0.833333333
+77:07:00	it was like i thought it was an unk	an	-4.39	2	0.797221882	0.62322319	0.889931886	1	1	0.333333333
+78:01:00	just have to grin and bear it so to speak	have	-4.99	3	0.749897515	0.655628398	0.898080459	1	0.666666667	0.5
+78:02:00	just have to grin and bear it so to speak	to	-1.56	2	0.564953928	0.45146134	0.788231969	1	1	0.666666667
+78:03:00	just have to grin and bear it so to speak	grin	-13.04	4	0.730077454	0.523498531	0.875639565	0.833333333	1	0.833333333
+78:04:00	just have to grin and bear it so to speak	and	-5.3	3	0.787526494	0.643693002	0.870525041	1	1	0.833333333
+78:05:00	just have to grin and bear it so to speak	bear	-10.4	3	0.672137439	0.570952484	0.882844464	1	1	0.833333333
+78:06:00	just have to grin and bear it so to speak	it	-5.55	2	0.827461182	0.765324546	0.914102825	1	1	0.833333333
+78:07:00	just have to grin and bear it so to speak	so	-6.09	2	0.827959454	0.786175267	0.945709785	1	1	0.5
+78:08:00	just have to grin and bear it so to speak	to	-3.48	2	0.564953928	0.45146134	0.788231969	1	1	0.666666667
+78:09:00	just have to grin and bear it so to speak	speak	-1.57	4	0.810552395	0.58833483	0.813166645	1	1	0.5
+79:01:00	just have to smile and bear it so to speak	have	-4.99	3	0.749897515	0.655628398	0.898080459	0.833333333	1	0.833333333
+79:02:00	just have to smile and bear it so to speak	to	-1.56	2	0.564953928	0.45146134	0.788231969	1	0.833333333	0.666666667
+79:03:00	just have to smile and bear it so to speak	smile	-12.35	4	0.810350921	0.60492112	0.886185516	1	1	1
+79:04:00	just have to smile and bear it so to speak	and	-4.78	3	0.787526494	0.643693002	0.870525041	1	0.833333333	0.5
+79:05:00	just have to smile and bear it so to speak	bear	-10.68	3	0.672137439	0.570952484	0.882844464	1	0.833333333	0.333333333
+79:06:00	just have to smile and bear it so to speak	it	-5.42	2	0.827461182	0.765324546	0.914102825	1	0.833333333	0.333333333
+79:07:00	just have to smile and bear it so to speak	so	-6.04	2	0.827959454	0.786175267	0.945709785	0.666666667	0.833333333	0.166666667
+79:08:00	just have to smile and bear it so to speak	to	-3.57	2	0.564953928	0.45146134	0.788231969	1	0.833333333	0.666666667
+79:09:00	just have to smile and bear it so to speak	speak	-1.56	4	0.810552395	0.58833483	0.813166645	1	0.833333333	0.166666667
+80:01:00	landlord told us to put an extra pack in the basement	told	-7.6	4	0.71876836	0.55371531	0.813597455	1	1	1
+80:02:00	landlord told us to put an extra pack in the basement	us	-2.05	2	0.720614986	0.587769306	0.836072551	1	1	1
+80:03:00	landlord told us to put an extra pack in the basement	to	-2.3	2	0.564953928	0.45146134	0.788231969	1	1	0.833333333
+80:04:00	landlord told us to put an extra pack in the basement	put	-4.62	3	0.886039382	0.80884126	0.97006723	1	0.833333333	0.833333333
+80:05:00	landlord told us to put an extra pack in the basement	an	-5.44	2	0.797221882	0.62322319	0.889931886	1	0.833333333	0.5
+80:06:00	landlord told us to put an extra pack in the basement	extra	-4.07	6	0.822369899	0.7482038	0.909521477	1	0.833333333	0.833333333
+80:07:00	landlord told us to put an extra pack in the basement	pack	-8.37	3	0.843971325	0.726023857	0.907647476	1	1	0.333333333
+80:08:00	landlord told us to put an extra pack in the basement	in	-1.77	2	0.698548189	0.501917747	0.730330444	1	1	0.833333333
+80:09:00	landlord told us to put an extra pack in the basement	the	-1.58	2	0.537922917	0.199520389	0.664877878	1	1	0.833333333
+80:10:00	landlord told us to put an extra pack in the basement	basement	-6.78	7	0.732603495	0.660670422	0.83337448	1	1	0.833333333
+81:01:00	landlord told us to put an extra pack in the cellar	told	-7.6	4	0.71876836	0.55371531	0.813597455	1	1	1
+81:02:00	landlord told us to put an extra pack in the cellar	us	-2.05	2	0.720614986	0.587769306	0.836072551	1	1	1
+81:03:00	landlord told us to put an extra pack in the cellar	to	-2.3	2	0.564953928	0.45146134	0.788231969	1	1	0.833333333
+81:04:00	landlord told us to put an extra pack in the cellar	put	-4.62	3	0.886039382	0.80884126	0.97006723	1	1	0.666666667
+81:05:00	landlord told us to put an extra pack in the cellar	an	-5.44	2	0.797221882	0.62322319	0.889931886	0.833333333	0.833333333	0.666666667
+81:06:00	landlord told us to put an extra pack in the cellar	extra	-4.07	6	0.822369899	0.7482038	0.909521477	1	1	0.666666667
+81:07:00	landlord told us to put an extra pack in the cellar	pack	-8.37	3	0.843971325	0.726023857	0.907647476	1	1	0.666666667
+81:08:00	landlord told us to put an extra pack in the cellar	in	-1.77	2	0.698548189	0.501917747	0.730330444	1	1	0.666666667
+81:09:00	landlord told us to put an extra pack in the cellar	the	-1.58	2	0.537922917	0.199520389	0.664877878	1	1	0.666666667
+81:10:00	landlord told us to put an extra pack in the cellar	cellar	-10.73	4	0.864915659	0.745233494	0.949455668	1	1	1
+82:01:00	like man of the home you know	man	-8.59	3	0.740406971	0.554096815	0.814473463	1	0.833333333	0.333333333
+82:02:00	like man of the home you know	of	-6.42	2	0.759014466	0.64002209	0.893290755	0.666666667	0.833333333	0
+82:03:00	like man of the home you know	the	-2.72	2	0.537922917	0.199520389	0.664877878	0.833333333	0.833333333	0.166666667
+82:04:00	like man of the home you know	home	-7.83	3	0.848562662	0.683151119	0.892039528	1	0.666666667	0.333333333
+82:05:00	like man of the home you know	you	-3.39	2	0.589431956	0.634635308	0.557849016	1	0.666666667	0.5
+82:06:00	like man of the home you know	know	-0.17	2	0.799041758	0.513410565	0.871580729	1	1	0.5
+83:01:00	like man of the household you know	man	-8.59	3	0.740406971	0.554096815	0.814473463	0.833333333	0.5	0.166666667
+83:02:00	like man of the household you know	of	-6.42	2	0.759014466	0.64002209	0.893290755	0.833333333	0.5	0
+83:03:00	like man of the household you know	the	-2.72	2	0.537922917	0.199520389	0.664877878	0.833333333	0.666666667	0.333333333
+83:04:00	like man of the household you know	household	-8.93	7	0.753909678	0.58336647	0.843189506	0.833333333	0.666666667	0.666666667
+83:05:00	like man of the household you know	you	-3.65	2	0.589431956	0.634635308	0.557849016	0.833333333	0.833333333	0.833333333
+83:06:00	like man of the household you know	know	-0.22	2	0.799041758	0.513410565	0.871580729	0.833333333	0.833333333	0.833333333
+84:01:00	mind do not go in the water	do	-6.71	2	0.5614232	0.449052399	0.763007385	0.666666667	0.833333333	0.5
+84:02:00	mind do not go in the water	not	-4.15	3	0.83510231	0.774108485	0.955440843	1	1	0.5
+84:03:00	mind do not go in the water	go	-3.97	2	0.827750948	0.671539759	0.90960004	1	1	0.166666667
+84:04:00	mind do not go in the water	in	-3.5	2	0.698548189	0.501917747	0.730330444	1	1	0
+84:05:00	mind do not go in the water	the	-2.05	2	0.537922917	0.199520389	0.664877878	1	1	0
+84:06:00	mind do not go in the water	water	-5.91	4	0.632480872	0.453443075	0.732764845	1	1	0
+85:01:00	unk gasoline has gone up again has not it unk	gasoline	-10.79	7	0.709331534	0.557273836	0.78516899	0.833333333	1	0.666666667
+85:02:00	unk gasoline has gone up again has not it unk	has	-6.18	3	0.773457703	0.621769748	0.884244516	1	1	0.5
+85:03:00	unk gasoline has gone up again has not it unk	gone	-4.02	3	0.714698313	0.625619589	0.876638943	1	1	0.166666667
+85:04:00	unk gasoline has gone up again has not it unk	up	-3.05	2	0.929872877	0.784745979	0.952129587	1	1	0.166666667
+85:05:00	unk gasoline has gone up again has not it unk	again	-5.77	4	0.777134056	0.684368585	0.887808267	0.833333333	0.833333333	0.166666667
+85:06:00	unk gasoline has gone up again has not it unk	has	-7.64	3	0.773457703	0.621769748	0.884244516	1	1	0.5
+85:07:00	unk gasoline has gone up again has not it unk	not	-4.45	3	0.83510231	0.774108485	0.955440843	0.833333333	0.333333333	0
+85:08:00	unk gasoline has gone up again has not it unk	it	-6.13	2	0.827461182	0.765324546	0.914102825	1	1	0.5
+86:02:00	unk unk has gone up again has not it unk	has	-6.76	3	0.773457703	0.621769748	0.884244516	1	1	0.5
+86:03:00	unk unk has gone up again has not it unk	gone	-4.61	3	0.714698313	0.625619589	0.876638943	1	1	0.5
+86:04:00	unk unk has gone up again has not it unk	up	-3.18	2	0.929872877	0.784745979	0.952129587	1	1	0.333333333
+86:05:00	unk unk has gone up again has not it unk	again	-5.62	4	0.777134056	0.684368585	0.887808267	1	1	0.666666667
+86:06:00	unk unk has gone up again has not it unk	has	-7.7	3	0.773457703	0.621769748	0.884244516	1	1	0.5
+86:07:00	unk unk has gone up again has not it unk	not	-4.46	3	0.83510231	0.774108485	0.955440843	1	0.833333333	0
+86:08:00	unk unk has gone up again has not it unk	it	-6.12	2	0.827461182	0.765324546	0.914102825	1	0.833333333	0.333333333
+87:01:00	oh it is like tonight this has been disastrous	it	-3.62	2	0.827461182	0.765324546	0.914102825	0.333333333	0.166666667	0
+87:02:00	oh it is like tonight this has been disastrous	is	-2.38	2	0.678812749	0.555596235	0.663419503	0.166666667	0	0
+87:03:00	oh it is like tonight this has been disastrous	like	-4.43	3	0.794628915	0.617932166	0.907579193	0.5	0.333333333	0.5
+87:04:00	oh it is like tonight this has been disastrous	tonight	-9.67	5	0.839342955	0.649933243	0.939753744	0.166666667	0.5	0.5
+87:05:00	oh it is like tonight this has been disastrous	this	-6.15	3	0.745428853	0.598218695	0.821968415	0.833333333	0.333333333	0.666666667
+87:06:00	oh it is like tonight this has been disastrous	has	-4.52	3	0.773457703	0.621769748	0.884244516	0.833333333	0.833333333	0.833333333
+87:07:00	oh it is like tonight this has been disastrous	been	-0.87	3	0.526757082	0.459386578	0.659084664	1	0.833333333	1
+87:08:00	oh it is like tonight this has been disastrous	disastrous	-11.06	9	0.770179737	0.614923232	0.862359657	1	0.833333333	1
+88:01:00	oh it is like tonight this has been fatal	it	-3.62	2	0.827461182	0.765324546	0.914102825	0	0.333333333	0.166666667
+88:02:00	oh it is like tonight this has been fatal	is	-2.38	2	0.678812749	0.555596235	0.663419503	0	0	0.166666667
+88:03:00	oh it is like tonight this has been fatal	like	-4.43	3	0.794628915	0.617932166	0.907579193	0.333333333	0.333333333	0.5
+88:04:00	oh it is like tonight this has been fatal	tonight	-9.67	5	0.839342955	0.649933243	0.939753744	0.333333333	0.5	0.166666667
+88:05:00	oh it is like tonight this has been fatal	this	-6.15	3	0.745428853	0.598218695	0.821968415	0.5	0.333333333	0.5
+88:06:00	oh it is like tonight this has been fatal	has	-4.52	3	0.773457703	0.621769748	0.884244516	0.833333333	0.833333333	0.666666667
+88:07:00	oh it is like tonight this has been fatal	been	-0.87	3	0.526757082	0.459386578	0.659084664	1	0.833333333	0.666666667
+88:08:00	oh it is like tonight this has been fatal	fatal	-11.82	5	0.821514094	0.708375307	0.912372738	1	0.833333333	0.5
+89:01:00	oh that 's fantastic unk i really	that	-2.91	3	0.858494095	0.774072043	0.960537108	1	0.666666667	0.5
+89:02:00	oh that 's fantastic unk i really	's	-0.33	3	0.796203933	0.742192137	0.869276556	1	0.666666667	0.166666667
+89:03:00	oh that 's fantastic unk i really	fantastic	-6.86	9	0.819876554	0.673320974	0.914609343	1	0.666666667	0.833333333
+89:05:00	oh that 's fantastic unk i really	i	-2.02	1	0.698881221	0.523162631	0.851248487	1	0.5	0.333333333
+89:06:00	oh that 's fantastic unk i really	really	-4.17	4	0.552563749	0.481660549	0.701970351	1	0.666666667	0.833333333
+90:01:00	oh that 's unk unk i really	that	-2.91	3	0.858494095	0.774072043	0.960537108	0.5	0.833333333	0.5
+90:02:00	oh that 's unk unk i really	's	-0.33	3	0.796203933	0.742192137	0.869276556	0.5	0.833333333	0.5
+90:05:00	oh that 's unk unk i really	i	-2.44	1	0.698881221	0.523162631	0.851248487	0.5	0	0.333333333
+90:06:00	oh that 's unk unk i really	really	-3.99	4	0.552563749	0.481660549	0.701970351	1	1	0.333333333
+91:01:00	oh that 's terrific unk i really	that	-2.91	3	0.858494095	0.774072043	0.960537108	0.833333333	0.666666667	0.333333333
+91:02:00	oh that 's terrific unk i really	's	-0.33	3	0.796203933	0.742192137	0.869276556	0.833333333	0.666666667	0.333333333
+91:03:00	oh that 's terrific unk i really	terrific	-10.33	6	0.765331833	0.711865358	0.883121833	1	0.666666667	0.666666667
+91:05:00	oh that 's terrific unk i really	i	-1.93	1	0.698881221	0.523162631	0.851248487	1	0.5	0.333333333
+91:06:00	oh that 's terrific unk i really	really	-4.19	4	0.552563749	0.481660549	0.701970351	1	0.666666667	0.833333333
+92:01:00	oh that 's wonderful unk i really	that	-2.91	3	0.858494095	0.774072043	0.960537108	0.5	0.166666667	0.166666667
+92:02:00	oh that 's wonderful unk i really	's	-0.33	3	0.796203933	0.742192137	0.869276556	0.5	0.166666667	0.166666667
+92:03:00	oh that 's wonderful unk i really	wonderful	-3.53	8	0.739049584	0.573240131	0.863961411	1	1	0.166666667
+92:05:00	oh that 's wonderful unk i really	i	-2	1	0.698881221	0.523162631	0.851248487	0.833333333	0.666666667	0.166666667
+92:06:00	oh that 's wonderful unk i really	really	-4.1	4	0.552563749	0.481660549	0.701970351	0.833333333	1	0.666666667
+93:01:00	oh yeah but i think they will probably be alone	yeah	-2.58	2	0.781205064	0.491194682	0.875546427	1	0.666666667	0.166666667
+93:02:00	oh yeah but i think they will probably be alone	but	-8.23	3	0.843730714	0.775294092	0.966911146	1	0.333333333	0.166666667
+93:03:00	oh yeah but i think they will probably be alone	i	-1.59	1	0.698881221	0.523162631	0.851248487	1	0.833333333	0.833333333
+93:04:00	oh yeah but i think they will probably be alone	think	-2.58	4	0.848501602	0.509958674	0.892166455	1	0.666666667	0.666666667
+93:05:00	oh yeah but i think they will probably be alone	they	-2.86	2	0.769852066	0.662375908	0.90448277	1	0.833333333	0.333333333
+93:06:00	oh yeah but i think they will probably be alone	will	-4.7	3	0.778901643	0.543810503	0.869839598	0.666666667	0.333333333	0.166666667
+93:07:00	oh yeah but i think they will probably be alone	probably	-3.65	8	0.78078112	0.553564058	0.891780143	1	0.833333333	0.666666667
+93:08:00	oh yeah but i think they will probably be alone	be	-1.97	2	0.709224335	0.659560437	0.741146158	1	1	0.333333333
+93:09:00	oh yeah but i think they will probably be alone	alone	-8.22	4	0.712654961	0.481648182	0.854913995	1	1	0
+94:01:00	oh yeah but i think they will probably be unk	yeah	-2.58	2	0.781205064	0.491194682	0.875546427	0.833333333	0.166666667	0
+94:02:00	oh yeah but i think they will probably be unk	but	-8.23	3	0.843730714	0.775294092	0.966911146	0.666666667	0.333333333	0
+94:03:00	oh yeah but i think they will probably be unk	i	-1.59	1	0.698881221	0.523162631	0.851248487	1	0.666666667	0.5
+94:04:00	oh yeah but i think they will probably be unk	think	-2.58	4	0.848501602	0.509958674	0.892166455	1	0.833333333	0.5
+94:05:00	oh yeah but i think they will probably be unk	they	-2.86	2	0.769852066	0.662375908	0.90448277	1	1	0.333333333
+94:06:00	oh yeah but i think they will probably be unk	will	-4.7	3	0.778901643	0.543810503	0.869839598	1	0.833333333	0.333333333
+94:07:00	oh yeah but i think they will probably be unk	probably	-3.65	8	0.78078112	0.553564058	0.891780143	0.833333333	0.833333333	0.833333333
+94:08:00	oh yeah but i think they will probably be unk	be	-1.97	2	0.709224335	0.659560437	0.741146158	1	0.833333333	0.5
+95:01:00	on a custom but unk new ideas	a	-2.34	1	0.761481519	0.680891232	0.928979461	0	0.5	0.166666667
+95:02:00	on a custom but unk new ideas	custom	-10.46	6	0.87074118	0.746451926	0.888913827	0.5	0.666666667	0.5
+95:03:00	on a custom but unk new ideas	but	-6.2	3	0.843730714	0.775294092	0.966911146	0.5	0.333333333	0
+95:05:00	on a custom but unk new ideas	new	-8.71	2	0.49685232	0.304875407	0.663724829	0.833333333	1	0.666666667
+95:06:00	on a custom but unk new ideas	ideas	-8.82	5	0.698998675	0.56930922	0.666384765	1	1	1
+96:01:00	on a tradition but unk new ideas	a	-2.34	1	0.761481519	0.680891232	0.928979461	0.833333333	0.5	0.333333333
+96:02:00	on a tradition but unk new ideas	tradition	-9.34	8	0.775808797	0.665660247	0.827223819	1	0.833333333	0.666666667
+96:03:00	on a tradition but unk new ideas	but	-5.31	3	0.843730714	0.775294092	0.966911146	0.666666667	0.166666667	0
+96:05:00	on a tradition but unk new ideas	new	-8.82	2	0.49685232	0.304875407	0.663724829	1	1	0.833333333
+96:06:00	on a tradition but unk new ideas	ideas	-8.74	5	0.698998675	0.56930922	0.666384765	1	1	1
+97:01:00	unk very good indian restaurants but this was brilliant	very	-6.71	4	0.81723182	0.561902268	0.901406668	0.666666667	0.5	0.666666667
+97:02:00	unk very good indian restaurants but this was brilliant	good	-2.49	3	0.830705788	0.69603016	0.854177957	0.833333333	0.666666667	0.666666667
+97:03:00	unk very good indian restaurants but this was brilliant	indian	-10.37	6	0.657285847	0.399203365	0.749735138	1	0.833333333	0.333333333
+97:04:00	unk very good indian restaurants but this was brilliant	restaurants	-7.47	9	0.769652223	0.800658718	0.882900299	1	0.833333333	1
+97:05:00	unk very good indian restaurants but this was brilliant	but	-5.44	3	0.843730714	0.775294092	0.966911146	1	0.833333333	0.666666667
+97:06:00	unk very good indian restaurants but this was brilliant	this	-6.02	3	0.745428853	0.598218695	0.821968415	1	0.666666667	0.833333333
+97:07:00	unk very good indian restaurants but this was brilliant	was	-3.75	3	0.727564693	0.537003996	0.760263436	1	0.5	0.833333333
+97:08:00	unk very good indian restaurants but this was brilliant	brilliant	-12.6	8	0.423491807	0.396018159	0.686617131	1	0.666666667	0.833333333
+98:01:00	problems with his illness but yeah i think he 's alright now	with	-2.33	3	0.729751852	0.549177518	0.809624346	1	1	0
+98:02:00	problems with his illness but yeah i think he 's alright now	his	-5.97	3	0.646724273	0.590425561	0.73812473	0.666666667	1	0
+98:03:00	problems with his illness but yeah i think he 's alright now	illness	-10.72	5	0.60018895	0.529212534	0.789899531	1	1	0.166666667
+98:04:00	problems with his illness but yeah i think he 's alright now	but	-5.48	3	0.843730714	0.775294092	0.966911146	0.333333333	0.666666667	0.333333333
+98:05:00	problems with his illness but yeah i think he 's alright now	yeah	-5.49	2	0.781205064	0.491194682	0.875546427	0.666666667	1	0.333333333
+98:06:00	problems with his illness but yeah i think he 's alright now	i	-3.01	1	0.698881221	0.523162631	0.851248487	0.666666667	0.833333333	0.666666667
+98:07:00	problems with his illness but yeah i think he 's alright now	think	-2.16	4	0.848501602	0.509958674	0.892166455	0.833333333	0.833333333	0.833333333
+98:08:00	problems with his illness but yeah i think he 's alright now	he	-3.38	2	0.646541566	0.456382688	0.733534039	0.666666667	1	0.333333333
+98:09:00	problems with his illness but yeah i think he 's alright now	's	-0.97	3	0.796203933	0.742192137	0.869276556	0.5	0.666666667	0.166666667
+98:10:00	problems with his illness but yeah i think he 's alright now	alright	-11.59	5	0.697949312	0.658261101	0.869754397	1	1	0.666666667
+98:11:00	problems with his illness but yeah i think he 's alright now	now	-6.07	2	0.761275283	0.543181217	0.873688795	1	1	0.833333333
+99:01:00	problems with his sickness but yeah i think he 's alright now	with	-2.33	3	0.729751852	0.549177518	0.809624346	0.833333333	1	1
+99:02:00	problems with his sickness but yeah i think he 's alright now	his	-5.97	3	0.646724273	0.590425561	0.73812473	0.5	0.666666667	0.666666667
+99:03:00	problems with his sickness but yeah i think he 's alright now	sickness	-11.76	6	0.702931453	0.58800808	0.872085182	0.666666667	0.666666667	0.666666667
+99:04:00	problems with his sickness but yeah i think he 's alright now	but	-7.36	3	0.843730714	0.775294092	0.966911146	0.5	1	1
+99:05:00	problems with his sickness but yeah i think he 's alright now	yeah	-5.2	2	0.781205064	0.491194682	0.875546427	0.666666667	0.5	0.833333333
+99:06:00	problems with his sickness but yeah i think he 's alright now	i	-3.65	1	0.698881221	0.523162631	0.851248487	1	0.666666667	1
+99:07:00	problems with his sickness but yeah i think he 's alright now	think	-2.23	4	0.848501602	0.509958674	0.892166455	1	0.666666667	1
+99:08:00	problems with his sickness but yeah i think he 's alright now	he	-3.08	2	0.646541566	0.456382688	0.733534039	0.833333333	0.5	1
+99:09:00	problems with his sickness but yeah i think he 's alright now	's	-0.94	3	0.796203933	0.742192137	0.869276556	0.666666667	0.333333333	1
+99:10:00	problems with his sickness but yeah i think he 's alright now	alright	-11.6	5	0.697949312	0.658261101	0.869754397	0.833333333	1	0.833333333
+99:11:00	problems with his sickness but yeah i think he 's alright now	now	-6.09	2	0.761275283	0.543181217	0.873688795	1	1	1
+100:01:00	reached the next oh i extremely doubt it	the	-2.29	2	0.537922917	0.199520389	0.664877878	1	0.5	1
+100:02:00	reached the next oh i extremely doubt it	next	-6.04	5	0.866877235	0.707617521	0.929570128	1	0.5	1
+100:03:00	reached the next oh i extremely doubt it	oh	-5.82	1	0.845093151	0.532894905	0.941946174	0	0	0
+100:04:00	reached the next oh i extremely doubt it	i	-2.87	1	0.698881221	0.523162631	0.851248487	0.833333333	0.833333333	0.666666667
+100:05:00	reached the next oh i extremely doubt it	extremely	-13.28	9	0.622918761	0.523068589	0.748000378	0.666666667	0.833333333	0.333333333
+100:06:00	reached the next oh i extremely doubt it	doubt	-9.07	3	0.833226351	0.70744762	0.898925791	1	0.833333333	0.833333333
+100:07:00	reached the next oh i extremely doubt it	it	-3.64	2	0.827461182	0.765324546	0.914102825	1	1	1
+101:01:00	reached the next oh i highly doubt it	the	-2.29	2	0.537922917	0.199520389	0.664877878	0.833333333	1	0.5
+101:02:00	reached the next oh i highly doubt it	next	-6.04	5	0.866877235	0.707617521	0.929570128	0.833333333	1	0.666666667
+101:03:00	reached the next oh i highly doubt it	oh	-5.82	1	0.845093151	0.532894905	0.941946174	0.166666667	0	0
+101:04:00	reached the next oh i highly doubt it	i	-2.87	1	0.698881221	0.523162631	0.851248487	0.833333333	1	1
+101:05:00	reached the next oh i highly doubt it	highly	-12.53	4	0.749494033	0.624133905	0.867001451	0.833333333	1	1
+101:06:00	reached the next oh i highly doubt it	doubt	-8.31	3	0.833226351	0.70744762	0.898925791	0.833333333	1	1
+101:07:00	reached the next oh i highly doubt it	it	-3.14	2	0.827461182	0.765324546	0.914102825	0.833333333	1	1
+102:01:00	riding it from london quite a lot lately and	it	-3.13	2	0.827461182	0.765324546	0.914102825	0.666666667	0.333333333	0.333333333
+102:02:00	riding it from london quite a lot lately and	from	-4.98	4	0.771732727	0.64802277	0.905766294	0.833333333	0.833333333	0
+102:03:00	riding it from london quite a lot lately and	london	-9.55	6	0.696326364	0.453796573	0.845850164	0.833333333	1	0.666666667
+102:04:00	riding it from london quite a lot lately and	quite	-8.25	4	0.838340917	0.713905464	0.929484703	0.5	0	0.166666667
+102:05:00	riding it from london quite a lot lately and	a	-0.42	1	0.761481519	0.680891232	0.928979461	0.666666667	0.5	0.166666667
+102:06:00	riding it from london quite a lot lately and	lot	-4.32	3	0.785654755	0.694521078	0.852170113	0.666666667	0.5	0.166666667
+102:07:00	riding it from london quite a lot lately and	lately	-8.05	5	0.731903783	0.53588492	0.830720409	0.666666667	0.666666667	0.5
+102:08:00	riding it from london quite a lot lately and	and	-4.79	3	0.787526494	0.643693002	0.870525041	0	0.166666667	0.166666667
+103:01:00	riding it from london quite a lot recently and	it	-3.13	2	0.827461182	0.765324546	0.914102825	0.833333333	1	0
+103:02:00	riding it from london quite a lot recently and	from	-4.98	4	0.771732727	0.64802277	0.905766294	0.833333333	0.833333333	0
+103:03:00	riding it from london quite a lot recently and	london	-9.55	6	0.696326364	0.453796573	0.845850164	1	1	0.666666667
+103:04:00	riding it from london quite a lot recently and	quite	-8.25	4	0.838340917	0.713905464	0.929484703	0.833333333	0.833333333	0.5
+103:05:00	riding it from london quite a lot recently and	a	-0.42	1	0.761481519	0.680891232	0.928979461	0.666666667	1	0.833333333
+103:06:00	riding it from london quite a lot recently and	lot	-4.32	3	0.785654755	0.694521078	0.852170113	0.666666667	1	1
+103:07:00	riding it from london quite a lot recently and	recently	-9.2	8	0.620090878	0.624800446	0.770340016	1	0.666666667	1
+103:08:00	riding it from london quite a lot recently and	and	-4	3	0.787526494	0.643693002	0.870525041	0	0	0
+104:01:00	right and now they work through the booklet	and	-5.08	3	0.787526494	0.643693002	0.870525041	0	0	0
+104:02:00	right and now they work through the booklet	now	-4.38	2	0.761275283	0.543181217	0.873688795	0.333333333	0.833333333	0.666666667
+104:03:00	right and now they work through the booklet	they	-3.08	2	0.769852066	0.662375908	0.90448277	0.666666667	0.666666667	0.333333333
+104:04:00	right and now they work through the booklet	work	-6.72	3	0.829268597	0.636914856	0.805452379	0.833333333	0.666666667	0.333333333
+104:05:00	right and now they work through the booklet	through	-6.03	3	0.630935326	0.597648922	0.820491536	0.833333333	0.5	0
+104:06:00	right and now they work through the booklet	the	-1.41	2	0.537922917	0.199520389	0.664877878	0.833333333	0.666666667	0.5
+104:07:00	right and now they work through the booklet	booklet	-10.84	6	0.753396736	0.585575782	0.889659878	1	0.833333333	0.166666667
+105:01:00	right and now they work through the unk	and	-5.08	3	0.787526494	0.643693002	0.870525041	0.166666667	0.166666667	0
+105:02:00	right and now they work through the unk	now	-4.38	2	0.761275283	0.543181217	0.873688795	0.666666667	0.5	0.333333333
+105:03:00	right and now they work through the unk	they	-3.08	2	0.769852066	0.662375908	0.90448277	1	0.666666667	0.333333333
+105:04:00	right and now they work through the unk	work	-6.72	3	0.829268597	0.636914856	0.805452379	0.833333333	0.166666667	0.333333333
+105:05:00	right and now they work through the unk	through	-6.03	3	0.630935326	0.597648922	0.820491536	1	0.666666667	0.166666667
+105:06:00	right and now they work through the unk	the	-1.41	2	0.537922917	0.199520389	0.664877878	1	0.666666667	0.5
+106:01:00	right and now they work through the pamphlet	and	-5.08	3	0.787526494	0.643693002	0.870525041	0.166666667	0	0
+106:02:00	right and now they work through the pamphlet	now	-4.38	2	0.761275283	0.543181217	0.873688795	0.666666667	0.333333333	0.333333333
+106:03:00	right and now they work through the pamphlet	they	-3.08	2	0.769852066	0.662375908	0.90448277	0.833333333	0.666666667	0.5
+106:04:00	right and now they work through the pamphlet	work	-6.72	3	0.829268597	0.636914856	0.805452379	0.833333333	0.833333333	0.333333333
+106:05:00	right and now they work through the pamphlet	through	-6.03	3	0.630935326	0.597648922	0.820491536	1	0.666666667	0
+106:06:00	right and now they work through the pamphlet	the	-1.41	2	0.537922917	0.199520389	0.664877878	1	0.666666667	0.166666667
+106:07:00	right and now they work through the pamphlet	pamphlet	-12.1	7	0.824474562	0.626754832	0.865838613	1	0.833333333	0
+107:01:00	she says to anybody she 's quite a fiery child	says	-4.85	3	0.8466829	0.791852745	0.932170072	1	1	0.833333333
+107:02:00	she says to anybody she 's quite a fiery child	to	-4.41	2	0.564953928	0.45146134	0.788231969	1	1	0.833333333
+107:03:00	she says to anybody she 's quite a fiery child	anybody	-6.01	7	0.776313825	0.595893488	0.867148311	0.833333333	1	0.5
+107:04:00	she says to anybody she 's quite a fiery child	she	-6.28	2	0.82435915	0.667284845	0.856017545	1	1	1
+107:05:00	she says to anybody she 's quite a fiery child	's	-1.18	3	0.796203933	0.742192137	0.869276556	0.5	0.5	0.333333333
+107:06:00	she says to anybody she 's quite a fiery child	quite	-7.15	4	0.838340917	0.713905464	0.929484703	1	1	1
+107:07:00	she says to anybody she 's quite a fiery child	a	-1.22	1	0.761481519	0.680891232	0.928979461	1	1	0.833333333
+107:08:00	she says to anybody she 's quite a fiery child	fiery	-12.59	4	0.686634002	0.594214872	0.829425668	1	1	0.5
+107:09:00	she says to anybody she 's quite a fiery child	child	-8.82	4	0.775279336	0.57299487	0.845239528	1	1	0.333333333
+108:01:00	she says to anybody she 's quite a fiery kid	says	-4.85	3	0.8466829	0.791852745	0.932170072	1	1	0.833333333
+108:02:00	she says to anybody she 's quite a fiery kid	to	-4.41	2	0.564953928	0.45146134	0.788231969	1	1	0.833333333
+108:03:00	she says to anybody she 's quite a fiery kid	anybody	-6.01	7	0.776313825	0.595893488	0.867148311	0.833333333	0.833333333	0.666666667
+108:04:00	she says to anybody she 's quite a fiery kid	she	-6.28	2	0.82435915	0.667284845	0.856017545	1	1	1
+108:05:00	she says to anybody she 's quite a fiery kid	's	-1.18	3	0.796203933	0.742192137	0.869276556	0.5	0.666666667	0.5
+108:06:00	she says to anybody she 's quite a fiery kid	quite	-7.15	4	0.838340917	0.713905464	0.929484703	1	1	0.833333333
+108:07:00	she says to anybody she 's quite a fiery kid	a	-1.22	1	0.761481519	0.680891232	0.928979461	1	1	0.5
+108:08:00	she says to anybody she 's quite a fiery kid	fiery	-12.59	4	0.686634002	0.594214872	0.829425668	1	1	0.333333333
+108:09:00	she says to anybody she 's quite a fiery kid	kid	-7.84	3	0.741697283	0.64699377	0.837250816	1	1	0
+109:01:00	she says to anybody she 's quite a fiery youngster	says	-4.85	3	0.8466829	0.791852745	0.932170072	1	0.833333333	0.833333333
+109:02:00	she says to anybody she 's quite a fiery youngster	to	-4.41	2	0.564953928	0.45146134	0.788231969	1	1	1
+109:03:00	she says to anybody she 's quite a fiery youngster	anybody	-6.01	7	0.776313825	0.595893488	0.867148311	1	0.666666667	0.666666667
+109:04:00	she says to anybody she 's quite a fiery youngster	she	-6.28	2	0.82435915	0.667284845	0.856017545	1	1	0.833333333
+109:05:00	she says to anybody she 's quite a fiery youngster	's	-1.18	3	0.796203933	0.742192137	0.869276556	0.666666667	0.666666667	0.166666667
+109:06:00	she says to anybody she 's quite a fiery youngster	quite	-7.15	4	0.838340917	0.713905464	0.929484703	1	1	1
+109:07:00	she says to anybody she 's quite a fiery youngster	a	-1.22	1	0.761481519	0.680891232	0.928979461	1	1	1
+109:08:00	she says to anybody she 's quite a fiery youngster	fiery	-12.59	4	0.686634002	0.594214872	0.829425668	1	1	1
+109:09:00	she says to anybody she 's quite a fiery youngster	youngster	-9.56	6	0.792552941	0.657460391	0.851623887	1	1	1
+110:01:00	so all your business dealings should i say unk	all	-6.26	2	0.39643666	0.328195369	0.716524875	0.833333333	0.666666667	0.666666667
+110:02:00	so all your business dealings should i say unk	your	-5.27	3	0.77838118	0.385199197	0.836574006	1	0.833333333	0.5
+110:03:00	so all your business dealings should i say unk	business	-6.35	6	0.71693711	0.404036329	0.868815214	1	1	0.833333333
+110:04:00	so all your business dealings should i say unk	dealings	-11.12	6	0.486960765	0.345671717	0.656531084	1	1	0.833333333
+110:05:00	so all your business dealings should i say unk	should	-7.67	3	0.852459712	0.753422607	0.954200823	1	0.666666667	0.166666667
+110:06:00	so all your business dealings should i say unk	i	-5.85	1	0.698881221	0.523162631	0.851248487	1	0.666666667	0.166666667
+110:07:00	so all your business dealings should i say unk	say	-3.91	2	0.82635397	0.756810246	0.954856433	1	0.833333333	0
+111:01:00	so all your business transaction should i say unk	all	-6.26	2	0.39643666	0.328195369	0.716524875	0.833333333	1	0
+111:02:00	so all your business transaction should i say unk	your	-5.27	3	0.77838118	0.385199197	0.836574006	0.833333333	1	0.166666667
+111:03:00	so all your business transaction should i say unk	business	-6.35	6	0.71693711	0.404036329	0.868815214	1	1	0.833333333
+111:04:00	so all your business transaction should i say unk	transaction	-12.01	10	0.830398547	0.758809994	0.922251484	1	1	1
+111:05:00	so all your business transaction should i say unk	should	-7.2	3	0.852459712	0.753422607	0.954200823	0.833333333	0.833333333	0.666666667
+111:06:00	so all your business transaction should i say unk	i	-5.37	1	0.698881221	0.523162631	0.851248487	0.833333333	0.833333333	0.666666667
+111:07:00	so all your business transaction should i say unk	say	-3.83	2	0.82635397	0.756810246	0.954856433	1	1	0.5
+112:01:00	some people have a unk for bronze	people	-3.44	5	0.742457066	0.539944845	0.899177152	1	1	0.666666667
+112:02:00	some people have a unk for bronze	have	-3.33	3	0.749897515	0.655628398	0.898080459	1	1	0.666666667
+112:03:00	some people have a unk for bronze	a	-2.4	1	0.761481519	0.680891232	0.928979461	0.833333333	1	0.5
+112:05:00	some people have a unk for bronze	for	-5.01	3	0.683631202	0.429919015	0.7482703	1	1	0
+112:06:00	some people have a unk for bronze	bronze	-12.74	5	0.495575221	0.484522385	0.708488653	1	0.333333333	0
+113:01:00	some people have a preference for bronze	people	-3.44	5	0.742457066	0.539944845	0.899177152	1	1	1
+113:02:00	some people have a preference for bronze	have	-3.33	3	0.749897515	0.655628398	0.898080459	1	1	0.833333333
+113:03:00	some people have a preference for bronze	a	-2.4	1	0.761481519	0.680891232	0.928979461	1	1	0.333333333
+113:04:00	some people have a preference for bronze	preference	-9.53	8	0.757148706	0.679505396	0.858679418	1	1	0.333333333
+113:05:00	some people have a preference for bronze	for	-2.56	3	0.683631202	0.429919015	0.7482703	1	1	0.5
+113:06:00	some people have a preference for bronze	bronze	-13.27	5	0.495575221	0.484522385	0.708488653	0.666666667	0.666666667	0
+114:01:00	that 's not embroidery that 's cloth art	's	-1.6	3	0.796203933	0.742192137	0.869276556	0.5	0.833333333	1
+114:02:00	that 's not embroidery that 's cloth art	not	-3.55	3	0.83510231	0.774108485	0.955440843	1	1	1
+114:03:00	that 's not embroidery that 's cloth art	embroidery	-12.99	8	0.712984275	0.582120678	0.782680694	0.833333333	1	0
+114:04:00	that 's not embroidery that 's cloth art	that	-3.9	3	0.858494095	0.774072043	0.960537108	0.5	0.833333333	1
+114:05:00	that 's not embroidery that 's cloth art	's	-1.97	3	0.796203933	0.742192137	0.869276556	0.5	0.833333333	1
+114:06:00	that 's not embroidery that 's cloth art	cloth	-11.95	4	0.843704173	0.618157284	0.88244221	1	0.5	0
+114:07:00	that 's not embroidery that 's cloth art	art	-10.42	3	0.753277805	0.514723559	0.903806049	1	0.833333333	0
+115:01:00	that 's not embroidery that 's fabric art	's	-1.6	3	0.796203933	0.742192137	0.869276556	0.5	0.833333333	0.666666667
+115:02:00	that 's not embroidery that 's fabric art	not	-3.55	3	0.83510231	0.774108485	0.955440843	1	1	0.666666667
+115:03:00	that 's not embroidery that 's fabric art	embroidery	-12.99	8	0.712984275	0.582120678	0.782680694	0.833333333	1	0.5
+115:04:00	that 's not embroidery that 's fabric art	that	-3.9	3	0.858494095	0.774072043	0.960537108	0.666666667	0.833333333	0.666666667
+115:05:00	that 's not embroidery that 's fabric art	's	-1.97	3	0.796203933	0.742192137	0.869276556	0.5	0.833333333	0.666666667
+115:06:00	that 's not embroidery that 's fabric art	fabric	-12.48	6	0.860960675	0.738214963	0.926924224	1	1	0
+115:07:00	that 's not embroidery that 's fabric art	art	-9.46	3	0.753277805	0.514723559	0.903806049	1	0.5	0.166666667
+116:01:00	that 's not embroidery that 's unk art	's	-1.6	3	0.796203933	0.742192137	0.869276556	0.833333333	0.5	0.833333333
+116:02:00	that 's not embroidery that 's unk art	not	-3.55	3	0.83510231	0.774108485	0.955440843	1	1	0.833333333
+116:03:00	that 's not embroidery that 's unk art	embroidery	-12.99	8	0.712984275	0.582120678	0.782680694	1	1	1
+116:04:00	that 's not embroidery that 's unk art	that	-3.9	3	0.858494095	0.774072043	0.960537108	0.833333333	0.666666667	0.833333333
+116:05:00	that 's not embroidery that 's unk art	's	-1.97	3	0.796203933	0.742192137	0.869276556	0.833333333	0.5	0.833333333
+116:07:00	that 's not embroidery that 's unk art	art	-10.9	3	0.753277805	0.514723559	0.903806049	0.833333333	1	1
+117:01:00	that 's really distressing do not unk na talk about that	's	-1.6	3	0.796203933	0.742192137	0.869276556	0.5	0.833333333	0.833333333
+117:02:00	that 's really distressing do not unk na talk about that	really	-3.64	4	0.552563749	0.481660549	0.701970351	1	1	1
+117:03:00	that 's really distressing do not unk na talk about that	distressing	-12.75	9	0.800495933	0.726240227	0.913837638	1	1	1
+117:04:00	that 's really distressing do not unk na talk about that	do	-9.04	2	0.5614232	0.449052399	0.763007385	1	0.833333333	1
+117:05:00	that 's really distressing do not unk na talk about that	not	-4.21	3	0.83510231	0.774108485	0.955440843	0.833333333	0.666666667	0.666666667
+117:07:00	that 's really distressing do not unk na talk about that	na	-12.72	2	0.689923824	0.560436691	0.884782889	0.333333333	0.166666667	0
+117:08:00	that 's really distressing do not unk na talk about that	talk	-8.46	3	0.766468991	0.526648643	0.79183079	1	1	1
+117:09:00	that 's really distressing do not unk na talk about that	about	-0.49	4	0.858979214	0.679912279	0.876612416	1	1	1
+117:10:00	that 's really distressing do not unk na talk about that	that	-2.01	3	0.858494095	0.774072043	0.960537108	1	1	1
+118:01:00	that 's really sad do not unk na talk about that	's	-1.6	3	0.796203933	0.742192137	0.869276556	0.5	0.5	1
+118:02:00	that 's really sad do not unk na talk about that	really	-3.64	4	0.552563749	0.481660549	0.701970351	1	1	1
+118:03:00	that 's really sad do not unk na talk about that	sad	-4.15	3	0.807751233	0.743777268	0.888554584	1	1	1
+118:04:00	that 's really sad do not unk na talk about that	do	-8.05	2	0.5614232	0.449052399	0.763007385	1	1	1
+118:05:00	that 's really sad do not unk na talk about that	not	-4.62	3	0.83510231	0.774108485	0.955440843	0.833333333	0.833333333	0.5
+118:07:00	that 's really sad do not unk na talk about that	na	-12.81	2	0.689923824	0.560436691	0.884782889	0.333333333	0	0
+118:08:00	that 's really sad do not unk na talk about that	talk	-8.43	3	0.766468991	0.526648643	0.79183079	1	1	1
+118:09:00	that 's really sad do not unk na talk about that	about	-0.54	4	0.858979214	0.679912279	0.876612416	1	1	1
+118:10:00	that 's really sad do not unk na talk about that	that	-2.02	3	0.858494095	0.774072043	0.960537108	1	1	1
+119:01:00	that 's really sorry do not unk na talk about that	's	-1.6	3	0.796203933	0.742192137	0.869276556	0.666666667	0.5	0.5
+119:02:00	that 's really sorry do not unk na talk about that	really	-3.64	4	0.552563749	0.481660549	0.701970351	1	1	0.833333333
+119:03:00	that 's really sorry do not unk na talk about that	sorry	-7.93	4	0.790681083	0.658614285	0.925249202	0.833333333	0.833333333	1
+119:04:00	that 's really sorry do not unk na talk about that	do	-7.99	2	0.5614232	0.449052399	0.763007385	0.833333333	1	0.833333333
+119:05:00	that 's really sorry do not unk na talk about that	not	-4.9	3	0.83510231	0.774108485	0.955440843	0.833333333	0.666666667	0.833333333
+119:07:00	that 's really sorry do not unk na talk about that	na	-12.67	2	0.689923824	0.560436691	0.884782889	0.166666667	0.166666667	0
+119:08:00	that 's really sorry do not unk na talk about that	talk	-8.24	3	0.766468991	0.526648643	0.79183079	1	1	0.666666667
+119:09:00	that 's really sorry do not unk na talk about that	about	-0.51	4	0.858979214	0.679912279	0.876612416	1	1	0.833333333
+119:10:00	that 's really sorry do not unk na talk about that	that	-1.98	3	0.858494095	0.774072043	0.960537108	1	1	0.833333333
+120:01:00	that 's the unk in the bread	's	-1.6	3	0.796203933	0.742192137	0.869276556	0.833333333	0.5	0.5
+120:02:00	that 's the unk in the bread	the	-2.57	2	0.537922917	0.199520389	0.664877878	1	1	0.666666667
+120:04:00	that 's the unk in the bread	in	-4.98	2	0.698548189	0.501917747	0.730330444	1	1	0.5
+120:05:00	that 's the unk in the bread	the	-1.09	2	0.537922917	0.199520389	0.664877878	1	1	0.666666667
+120:06:00	that 's the unk in the bread	bread	-10.53	4	0.830192947	0.746697982	0.936354486	1	1	1
+121:01:00	that 's the unk in the dough	's	-1.6	3	0.796203933	0.742192137	0.869276556	0.666666667	0.833333333	0.5
+121:02:00	that 's the unk in the dough	the	-2.57	2	0.537922917	0.199520389	0.664877878	1	1	1
+121:04:00	that 's the unk in the dough	in	-4.98	2	0.698548189	0.501917747	0.730330444	1	1	0.666666667
+121:05:00	that 's the unk in the dough	the	-1.09	2	0.537922917	0.199520389	0.664877878	1	1	1
+121:06:00	that 's the unk in the dough	dough	-10.43	2	0.749124421	0.509390242	0.866406098	1	0.833333333	0.5
+122:02:00	the unk as he was going to his office	as	-5.89	2	0.755681954	0.685469397	0.872750651	1	0.666666667	0.166666667
+122:03:00	the unk as he was going to his office	he	-5.53	2	0.646541566	0.456382688	0.733534039	1	0.833333333	0
+122:04:00	the unk as he was going to his office	was	-2.46	3	0.727564693	0.537003996	0.760263436	1	0.833333333	0.333333333
+122:05:00	the unk as he was going to his office	going	-3.33	4	0.728950568	0.622081554	0.835352551	1	1	0.666666667
+122:06:00	the unk as he was going to his office	to	-0.14	2	0.564953928	0.45146134	0.788231969	1	1	0.833333333
+122:07:00	the unk as he was going to his office	his	-8.75	3	0.646724273	0.590425561	0.73812473	1	1	0.5
+122:08:00	the unk as he was going to his office	office	-5.57	4	0.700953223	0.62811391	0.846011662	1	1	0.666666667
+123:01:00	the master as he was going to his office	master	-8.53	5	0.672844013	0.638397322	0.835000408	1	0.833333333	0.833333333
+123:02:00	the master as he was going to his office	as	-9.48	2	0.755681954	0.685469397	0.872750651	1	0.833333333	0
+123:03:00	the master as he was going to his office	he	-5.47	2	0.646541566	0.456382688	0.733534039	1	1	0
+123:04:00	the master as he was going to his office	was	-2.4	3	0.727564693	0.537003996	0.760263436	1	1	0
+123:05:00	the master as he was going to his office	going	-3.72	4	0.728950568	0.622081554	0.835352551	1	1	0.333333333
+123:06:00	the master as he was going to his office	to	-0.12	2	0.564953928	0.45146134	0.788231969	1	1	0.166666667
+123:07:00	the master as he was going to his office	his	-8.66	3	0.646724273	0.590425561	0.73812473	1	1	0.333333333
+123:08:00	the master as he was going to his office	office	-5.53	4	0.700953223	0.62811391	0.846011662	1	1	0.5
+124:01:00	the maximum penalty for unk unk manslaughter	maximum	-9.42	8	0.754315725	0.628644066	0.86329775	0.833333333	0.833333333	0.833333333
+124:02:00	the maximum penalty for unk unk manslaughter	penalty	-3.31	7	0.766009391	0.637639083	0.838693464	0.833333333	0.833333333	0.333333333
+124:03:00	the maximum penalty for unk unk manslaughter	for	-4.02	3	0.683631202	0.429919015	0.7482703	0.5	0.666666667	0.5
+124:06:00	the maximum penalty for unk unk manslaughter	manslaughter	-12.15	8	0.675203554	0.60070256	0.796291125	1	0.833333333	0.666666667
+125:01:00	the maximum punishment for unk unk manslaughter	maximum	-9.42	8	0.754315725	0.628644066	0.86329775	1	1	0.5
+125:02:00	the maximum punishment for unk unk manslaughter	punishment	-9.23	9	0.822911492	0.709051364	0.898273308	0.666666667	0.666666667	0.666666667
+125:03:00	the maximum punishment for unk unk manslaughter	for	-3.95	3	0.683631202	0.429919015	0.7482703	1	0.833333333	0.5
+125:06:00	the maximum punishment for unk unk manslaughter	manslaughter	-12.2	8	0.675203554	0.60070256	0.796291125	0.833333333	1	0.166666667
+126:01:00	the yellow page directory it is not so dominant now	yellow	-8.92	4	0.782220446	0.596204106	0.879828264	1	1	0.666666667
+126:02:00	the yellow page directory it is not so dominant now	page	-8.01	3	0.738132363	0.679416943	0.860466611	1	0.833333333	0.5
+126:03:00	the yellow page directory it is not so dominant now	directory	-12.37	7	0.74629038	0.625757011	0.866457893	1	1	0.333333333
+126:04:00	the yellow page directory it is not so dominant now	it	-7.67	2	0.827461182	0.765324546	0.914102825	0.5	0.333333333	0.166666667
+126:05:00	the yellow page directory it is not so dominant now	is	-2.49	2	0.678812749	0.555596235	0.663419503	1	1	0.166666667
+126:06:00	the yellow page directory it is not so dominant now	not	-3.89	3	0.83510231	0.774108485	0.955440843	1	1	0.333333333
+126:07:00	the yellow page directory it is not so dominant now	so	-4.13	2	0.827959454	0.786175267	0.945709785	1	1	0.5
+126:08:00	the yellow page directory it is not so dominant now	dominant	-12.35	8	0.581584907	0.438809143	0.792756754	1	1	0.666666667
+126:09:00	the yellow page directory it is not so dominant now	now	-5.3	2	0.761275283	0.543181217	0.873688795	1	1	0
+127:01:00	the yellow page directory it is not so prevalent now	yellow	-8.92	4	0.782220446	0.596204106	0.879828264	1	1	0.833333333
+127:02:00	the yellow page directory it is not so prevalent now	page	-8.01	3	0.738132363	0.679416943	0.860466611	1	1	0.833333333
+127:03:00	the yellow page directory it is not so prevalent now	directory	-12.37	7	0.74629038	0.625757011	0.866457893	0.833333333	1	0.833333333
+127:04:00	the yellow page directory it is not so prevalent now	it	-7.67	2	0.827461182	0.765324546	0.914102825	0.5	0	0
+127:05:00	the yellow page directory it is not so prevalent now	is	-2.49	2	0.678812749	0.555596235	0.663419503	1	0.833333333	0.666666667
+127:06:00	the yellow page directory it is not so prevalent now	not	-3.89	3	0.83510231	0.774108485	0.955440843	1	1	0.666666667
+127:07:00	the yellow page directory it is not so prevalent now	so	-4.13	2	0.827959454	0.786175267	0.945709785	1	0.833333333	0.666666667
+127:08:00	the yellow page directory it is not so prevalent now	prevalent	-9.42	9	0.730631519	0.584446315	0.925290746	0.833333333	0.333333333	0
+127:09:00	the yellow page directory it is not so prevalent now	now	-4.68	2	0.761275283	0.543181217	0.873688795	1	1	0
+128:01:00	there was a stealing in unk 's little close the other day	was	-3.06	3	0.727564693	0.537003996	0.760263436	1	1	1
+128:02:00	there was a stealing in unk 's little close the other day	a	-1.17	1	0.761481519	0.680891232	0.928979461	1	1	1
+128:03:00	there was a stealing in unk 's little close the other day	stealing	-11.77	6	0.656382876	0.395468633	0.697852547	1	0.833333333	0.833333333
+128:04:00	there was a stealing in unk 's little close the other day	in	-4.48	2	0.698548189	0.501917747	0.730330444	1	1	0.333333333
+128:06:00	there was a stealing in unk 's little close the other day	's	-5.89	3	0.796203933	0.742192137	0.869276556	0.5	0.5	0
+128:07:00	there was a stealing in unk 's little close the other day	little	-6.63	5	0.680958822	0.476363905	0.842642104	0.833333333	0.5	0
+128:08:00	there was a stealing in unk 's little close the other day	close	-9.65	4	0.810872176	0.683345903	0.870640366	0.5	0.333333333	0
+128:09:00	there was a stealing in unk 's little close the other day	the	-6.25	2	0.537922917	0.199520389	0.664877878	1	0.833333333	0.833333333
+128:10:00	there was a stealing in unk 's little close the other day	other	-3.95	3	0.791356575	0.631805174	0.917571799	1	0.833333333	0.833333333
+128:11:00	there was a stealing in unk 's little close the other day	day	-1.43	2	0.700014193	0.605503993	0.913451377	1	0.833333333	0.833333333
+129:01:00	there was a theft in unk 's little close the other day	was	-3.06	3	0.727564693	0.537003996	0.760263436	0.833333333	1	1
+129:02:00	there was a theft in unk 's little close the other day	a	-1.17	1	0.761481519	0.680891232	0.928979461	0.666666667	0.833333333	0.833333333
+129:03:00	there was a theft in unk 's little close the other day	theft	-11.02	4	0.820015049	0.757029449	0.917427532	0.166666667	0.166666667	0
+129:04:00	there was a theft in unk 's little close the other day	in	-3.9	2	0.698548189	0.501917747	0.730330444	0.166666667	0.5	0.166666667
+129:06:00	there was a theft in unk 's little close the other day	's	-6.4	3	0.796203933	0.742192137	0.869276556	0	0	0
+129:07:00	there was a theft in unk 's little close the other day	little	-6.57	5	0.680958822	0.476363905	0.842642104	0	0.166666667	0
+129:08:00	there was a theft in unk 's little close the other day	close	-9.52	4	0.810872176	0.683345903	0.870640366	0	0	0
+129:09:00	there was a theft in unk 's little close the other day	the	-6.31	2	0.537922917	0.199520389	0.664877878	1	1	0.833333333
+129:10:00	there was a theft in unk 's little close the other day	other	-3.93	3	0.791356575	0.631805174	0.917571799	1	1	0.833333333
+129:11:00	there was a theft in unk 's little close the other day	day	-1.55	2	0.700014193	0.605503993	0.913451377	1	1	1
+130:01:00	they are getting a big new arena a huge one	are	-3.64	2	0.731639388	0.417510853	0.799962084	1	0.833333333	0
+130:02:00	they are getting a big new arena a huge one	getting	-4.71	5	0.797708458	0.553899294	0.863481726	1	0.833333333	0.5
+130:03:00	they are getting a big new arena a huge one	a	-2.45	1	0.761481519	0.680891232	0.928979461	1	0.833333333	0.333333333
+130:04:00	they are getting a big new arena a huge one	big	-4.22	3	0.758460916	0.625763511	0.888599581	0.666666667	1	0.833333333
+130:05:00	they are getting a big new arena a huge one	new	-5.37	2	0.49685232	0.304875407	0.663724829	1	1	0.333333333
+130:06:00	they are getting a big new arena a huge one	arena	-10.99	4	0.655181312	0.547712264	0.851892544	1	1	0.333333333
+130:07:00	they are getting a big new arena a huge one	a	-5.76	1	0.761481519	0.680891232	0.928979461	1	0.833333333	0.333333333
+130:08:00	they are getting a big new arena a huge one	huge	-6.32	4	0.665966792	0.570733838	0.658088292	1	1	1
+130:09:00	they are getting a big new arena a huge one	one	-3.3	3	0.710453811	0.463838731	0.800712839	1	1	0.5
+131:01:00	they are getting a big new stadium a huge one	are	-3.64	2	0.731639388	0.417510853	0.799962084	0.833333333	1	0.166666667
+131:02:00	they are getting a big new stadium a huge one	getting	-4.71	5	0.797708458	0.553899294	0.863481726	1	1	0.333333333
+131:03:00	they are getting a big new stadium a huge one	a	-2.45	1	0.761481519	0.680891232	0.928979461	1	1	0.333333333
+131:04:00	they are getting a big new stadium a huge one	big	-4.22	3	0.758460916	0.625763511	0.888599581	0.833333333	0.833333333	0.333333333
+131:05:00	they are getting a big new stadium a huge one	new	-5.37	2	0.49685232	0.304875407	0.663724829	1	1	0.333333333
+131:06:00	they are getting a big new stadium a huge one	stadium	-4.46	7	0.739529057	0.547604288	0.819059917	1	1	0.833333333
+131:07:00	they are getting a big new stadium a huge one	a	-5.3	1	0.761481519	0.680891232	0.928979461	1	1	0.333333333
+131:08:00	they are getting a big new stadium a huge one	huge	-6.54	4	0.665966792	0.570733838	0.658088292	1	1	0.833333333
+131:09:00	they are getting a big new stadium a huge one	one	-3.37	3	0.710453811	0.463838731	0.800712839	1	1	0.166666667
+132:01:00	think maybe you could add that to the garden	maybe	-5.55	4	0.705783653	0.579599987	0.767959729	1	0.833333333	0.166666667
+132:02:00	think maybe you could add that to the garden	you	-2.98	2	0.589431956	0.634635308	0.557849016	1	1	0.166666667
+132:03:00	think maybe you could add that to the garden	could	-2.93	3	0.866933357	0.612272572	0.940696229	1	1	0.166666667
+132:04:00	think maybe you could add that to the garden	add	-7.18	2	0.82059879	0.63657865	0.913891426	1	1	0.166666667
+132:05:00	think maybe you could add that to the garden	that	-3.48	3	0.858494095	0.774072043	0.960537108	0.833333333	1	0.5
+132:06:00	think maybe you could add that to the garden	to	-4.05	2	0.564953928	0.45146134	0.788231969	1	1	0.166666667
+132:07:00	think maybe you could add that to the garden	the	-2.36	2	0.537922917	0.199520389	0.664877878	1	1	0.166666667
+132:08:00	think maybe you could add that to the garden	garden	-8.69	6	0.720214189	0.616454588	0.854564512	1	1	0.5
+133:01:00	think perhaps you could add that to the garden	perhaps	-8.98	6	0.847094221	0.72383358	0.926686581	1	0.666666667	0
+133:02:00	think perhaps you could add that to the garden	you	-3.01	2	0.589431956	0.634635308	0.557849016	1	0.666666667	0
+133:03:00	think perhaps you could add that to the garden	could	-3.48	3	0.866933357	0.612272572	0.940696229	1	0.666666667	0
+133:04:00	think perhaps you could add that to the garden	add	-7.22	2	0.82059879	0.63657865	0.913891426	1	0.666666667	0.333333333
+133:05:00	think perhaps you could add that to the garden	that	-3.47	3	0.858494095	0.774072043	0.960537108	1	0.833333333	0.833333333
+133:06:00	think perhaps you could add that to the garden	to	-4.06	2	0.564953928	0.45146134	0.788231969	1	0.833333333	0.5
+133:07:00	think perhaps you could add that to the garden	the	-2.37	2	0.537922917	0.199520389	0.664877878	1	1	0.333333333
+133:08:00	think perhaps you could add that to the garden	garden	-8.72	6	0.720214189	0.616454588	0.854564512	1	1	0.333333333
+134:01:00	think possibly you could add that to the garden	possibly	-10.59	7	0.736456295	0.669824646	0.938032814	1	0.833333333	0
+134:02:00	think possibly you could add that to the garden	you	-3.69	2	0.589431956	0.634635308	0.557849016	1	0.833333333	0
+134:03:00	think possibly you could add that to the garden	could	-4	3	0.866933357	0.612272572	0.940696229	1	0.833333333	0
+134:04:00	think possibly you could add that to the garden	add	-7.38	2	0.82059879	0.63657865	0.913891426	1	1	0
+134:05:00	think possibly you could add that to the garden	that	-3.49	3	0.858494095	0.774072043	0.960537108	1	1	0.5
+134:06:00	think possibly you could add that to the garden	to	-4.1	2	0.564953928	0.45146134	0.788231969	1	1	0.166666667
+134:07:00	think possibly you could add that to the garden	the	-2.38	2	0.537922917	0.199520389	0.664877878	1	1	0.166666667
+134:08:00	think possibly you could add that to the garden	garden	-8.75	6	0.720214189	0.616454588	0.854564512	1	1	0
+135:01:00	tremendous airport and i wandered about a mile	airport	-10.24	6	0.724363827	0.655382821	0.829770079	0.833333333	0.333333333	0
+135:02:00	tremendous airport and i wandered about a mile	and	-3.22	3	0.787526494	0.643693002	0.870525041	0.666666667	0	0.166666667
+135:03:00	tremendous airport and i wandered about a mile	i	-4.33	1	0.698881221	0.523162631	0.851248487	0.666666667	0.166666667	0.5
+135:04:00	tremendous airport and i wandered about a mile	wandered	-13.85	6	0.73039096	0.513331022	0.758731716	0.833333333	0.666666667	0.333333333
+135:05:00	tremendous airport and i wandered about a mile	about	-7.15	4	0.858979214	0.679912279	0.876612416	1	0.833333333	0.666666667
+135:06:00	tremendous airport and i wandered about a mile	a	-1.98	1	0.761481519	0.680891232	0.928979461	1	0.666666667	0.166666667
+135:07:00	tremendous airport and i wandered about a mile	mile	-4.83	3	0.689271335	0.481230034	0.863597016	1	0.666666667	0
+136:01:00	trust me i could see my breath in my apartment	me	-4.65	2	0.574412428	0.595930861	0.634867504	0.833333333	0.666666667	0.5
+136:02:00	trust me i could see my breath in my apartment	i	-4.32	1	0.698881221	0.523162631	0.851248487	1	1	1
+136:03:00	trust me i could see my breath in my apartment	could	-4.33	3	0.866933357	0.612272572	0.940696229	1	0.833333333	1
+136:04:00	trust me i could see my breath in my apartment	see	-3.34	2	0.739275404	0.509826777	0.801931479	1	1	1
+136:05:00	trust me i could see my breath in my apartment	my	-4.73	2	0.689805194	0.581828022	0.888419135	1	1	1
+136:06:00	trust me i could see my breath in my apartment	breath	-10.7	4	0.91095392	0.753943335	0.947004742	1	0.833333333	0.833333333
+136:07:00	trust me i could see my breath in my apartment	in	-2.3	2	0.698548189	0.501917747	0.730330444	1	1	0.833333333
+136:08:00	trust me i could see my breath in my apartment	my	-3.04	2	0.689805194	0.581828022	0.888419135	1	1	1
+136:09:00	trust me i could see my breath in my apartment	apartment	-4.3	9	0.729386178	0.573051305	0.827356055	1	1	0.833333333
+137:01:00	trust me i could see my breath in my flat	me	-4.65	2	0.574412428	0.595930861	0.634867504	1	1	1
+137:02:00	trust me i could see my breath in my flat	i	-4.32	1	0.698881221	0.523162631	0.851248487	1	1	0.833333333
+137:03:00	trust me i could see my breath in my flat	could	-4.33	3	0.866933357	0.612272572	0.940696229	1	0.5	0.5
+137:04:00	trust me i could see my breath in my flat	see	-3.34	2	0.739275404	0.509826777	0.801931479	0.833333333	1	0.833333333
+137:05:00	trust me i could see my breath in my flat	my	-4.73	2	0.689805194	0.581828022	0.888419135	1	1	1
+137:06:00	trust me i could see my breath in my flat	breath	-10.7	4	0.91095392	0.753943335	0.947004742	1	0.666666667	0.666666667
+137:07:00	trust me i could see my breath in my flat	in	-2.3	2	0.698548189	0.501917747	0.730330444	1	0.833333333	0.833333333
+137:08:00	trust me i could see my breath in my flat	my	-3.04	2	0.689805194	0.581828022	0.888419135	1	1	1
+137:09:00	trust me i could see my breath in my flat	flat	-11.03	4	0.813209521	0.662074371	0.935550509	1	0.833333333	0.5
+138:01:00	we watched working girl have you seen that movie unk	watched	-7.79	4	0.796306746	0.74698769	0.897531018	1	1	0.5
+138:02:00	we watched working girl have you seen that movie unk	working	-9.17	5	0.720935699	0.614641878	0.863154052	1	0.666666667	0.166666667
+138:03:00	we watched working girl have you seen that movie unk	girl	-10.61	3	0.677578067	0.643742008	0.866722359	1	0.833333333	0.166666667
+138:04:00	we watched working girl have you seen that movie unk	have	-7.21	3	0.749897515	0.655628398	0.898080459	1	1	0.666666667
+138:05:00	we watched working girl have you seen that movie unk	you	-3.5	2	0.589431956	0.634635308	0.557849016	1	1	1
+138:06:00	we watched working girl have you seen that movie unk	seen	-4.49	3	0.515232888	0.542794009	0.711154462	0.833333333	1	1
+138:07:00	we watched working girl have you seen that movie unk	that	-1.94	3	0.858494095	0.774072043	0.960537108	1	1	0.5
+138:08:00	we watched working girl have you seen that movie unk	movie	-4.59	4	0.55473609	0.354334921	0.659595077	1	1	0.333333333
+139:01:00	we watched working girl have you seen that picture unk	watched	-7.79	4	0.796306746	0.74698769	0.897531018	1	1	0.5
+139:02:00	we watched working girl have you seen that picture unk	working	-9.17	5	0.720935699	0.614641878	0.863154052	1	1	0.333333333
+139:03:00	we watched working girl have you seen that picture unk	girl	-10.61	3	0.677578067	0.643742008	0.866722359	1	1	0.333333333
+139:04:00	we watched working girl have you seen that picture unk	have	-7.21	3	0.749897515	0.655628398	0.898080459	1	1	1
+139:05:00	we watched working girl have you seen that picture unk	you	-3.5	2	0.589431956	0.634635308	0.557849016	1	1	1
+139:06:00	we watched working girl have you seen that picture unk	seen	-4.49	3	0.515232888	0.542794009	0.711154462	0.666666667	1	1
+139:07:00	we watched working girl have you seen that picture unk	that	-1.94	3	0.858494095	0.774072043	0.960537108	0.833333333	1	1
+139:08:00	we watched working girl have you seen that picture unk	picture	-10.19	5	0.856453676	0.751159346	0.939553553	1	1	1
+140:01:00	well common price for these are two unk	common	-11.73	5	0.716435487	0.557224825	0.852998686	1	0.666666667	1
+140:02:00	well common price for these are two unk	price	-7.03	4	0.870580181	0.65684642	0.909419701	1	1	1
+140:03:00	well common price for these are two unk	for	-4.19	3	0.683631202	0.429919015	0.7482703	0.833333333	0.833333333	0.5
+140:04:00	well common price for these are two unk	these	-5.96	3	0.440772751	0.425496232	0.613414866	1	0.833333333	0.5
+140:05:00	well common price for these are two unk	are	-3.99	2	0.731639388	0.417510853	0.799962084	0.666666667	0.5	0.166666667
+140:06:00	well common price for these are two unk	two	-5.32	2	0.625803336	0.452168206	0.880185058	0.333333333	0.166666667	0.166666667
+141:01:00	well it looks like it is a common happening	it	-2.97	2	0.827461182	0.765324546	0.914102825	1	1	1
+141:02:00	well it looks like it is a common happening	looks	-5.81	4	0.760162983	0.680542942	0.90494671	1	1	1
+141:03:00	well it looks like it is a common happening	like	-0.5	3	0.794628915	0.617932166	0.907579193	1	1	1
+141:04:00	well it looks like it is a common happening	it	-1.64	2	0.827461182	0.765324546	0.914102825	1	1	1
+141:05:00	well it looks like it is a common happening	is	-2.8	2	0.678812749	0.555596235	0.663419503	0.833333333	1	0.666666667
+141:06:00	well it looks like it is a common happening	a	-2.3	1	0.761481519	0.680891232	0.928979461	1	0.833333333	0.666666667
+141:07:00	well it looks like it is a common happening	common	-7.33	5	0.716435487	0.557224825	0.852998686	1	0.833333333	1
+141:08:00	well it looks like it is a common happening	happening	-10.72	7	0.811360793	0.619964534	0.875807341	1	0.5	0.166666667
+142:01:00	well it looks like it is a common occurrence	it	-2.97	2	0.827461182	0.765324546	0.914102825	1	1	0.333333333
+142:02:00	well it looks like it is a common occurrence	looks	-5.81	4	0.760162983	0.680542942	0.90494671	1	1	0.333333333
+142:03:00	well it looks like it is a common occurrence	like	-0.5	3	0.794628915	0.617932166	0.907579193	1	1	0.333333333
+142:04:00	well it looks like it is a common occurrence	it	-1.64	2	0.827461182	0.765324546	0.914102825	1	1	0.333333333
+142:05:00	well it looks like it is a common occurrence	is	-2.8	2	0.678812749	0.555596235	0.663419503	1	1	0.333333333
+142:06:00	well it looks like it is a common occurrence	a	-2.3	1	0.761481519	0.680891232	0.928979461	1	0.833333333	0.5
+142:07:00	well it looks like it is a common occurrence	common	-7.33	5	0.716435487	0.557224825	0.852998686	1	1	0.833333333
+142:08:00	well it looks like it is a common occurrence	occurrence	-10.84	6	0.826403307	0.711954389	0.877090805	1	0.833333333	0.833333333
+143:01:00	well she must be pretty affluent to own	she	-5.89	2	0.82435915	0.667284845	0.856017545	0.833333333	0.666666667	1
+143:02:00	well she must be pretty affluent to own	must	-6.29	4	0.769587058	0.625203186	0.877491642	1	1	0.833333333
+143:03:00	well she must be pretty affluent to own	be	-1.54	2	0.709224335	0.659560437	0.741146158	1	1	1
+143:04:00	well she must be pretty affluent to own	pretty	-5.08	5	0.729369735	0.533322223	0.816020002	1	0.833333333	0.833333333
+143:05:00	well she must be pretty affluent to own	affluent	-9.57	7	0.622764865	0.487370992	0.863575053	1	0.833333333	0.666666667
+143:06:00	well she must be pretty affluent to own	to	-3.67	2	0.564953928	0.45146134	0.788231969	1	0.833333333	0.5
+143:07:00	well she must be pretty affluent to own	own	-9.44	2	0.791778993	0.595674517	0.853420781	1	0.833333333	0
+144:01:00	well she must be pretty wealthy to own	she	-5.89	2	0.82435915	0.667284845	0.856017545	1	0.833333333	0.833333333
+144:02:00	well she must be pretty wealthy to own	must	-6.29	4	0.769587058	0.625203186	0.877491642	1	1	0.833333333
+144:03:00	well she must be pretty wealthy to own	be	-1.54	2	0.709224335	0.659560437	0.741146158	1	1	0.666666667
+144:04:00	well she must be pretty wealthy to own	pretty	-5.08	5	0.729369735	0.533322223	0.816020002	1	1	0.833333333
+144:05:00	well she must be pretty wealthy to own	wealthy	-7.64	5	0.782665867	0.73696739	0.861142747	1	0.666666667	0
+144:06:00	well she must be pretty wealthy to own	to	-3.48	2	0.564953928	0.45146134	0.788231969	1	0.5	0
+144:07:00	well she must be pretty wealthy to own	own	-8.79	2	0.791778993	0.595674517	0.853420781	1	0.333333333	0
+145:01:00	well usual price for these are two unk	usual	-12.51	7	0.676156532	0.527958728	0.796613761	1	1	0.833333333
+145:02:00	well usual price for these are two unk	price	-8.98	4	0.870580181	0.65684642	0.909419701	1	1	0.333333333
+145:03:00	well usual price for these are two unk	for	-4.31	3	0.683631202	0.429919015	0.7482703	1	1	0.166666667
+145:04:00	well usual price for these are two unk	these	-6.15	3	0.440772751	0.425496232	0.613414866	1	1	0.166666667
+145:05:00	well usual price for these are two unk	are	-3.92	2	0.731639388	0.417510853	0.799962084	1	0.5	0.166666667
+145:06:00	well usual price for these are two unk	two	-5.06	2	0.625803336	0.452168206	0.880185058	0	0	0.5
+146:01:00	what was the name of unk the unk 's brother unk	was	-3.96	3	0.727564693	0.537003996	0.760263436	1	1	0.333333333
+146:02:00	what was the name of unk the unk 's brother unk	the	-1.89	2	0.537922917	0.199520389	0.664877878	1	1	0.833333333
+146:03:00	what was the name of unk the unk 's brother unk	name	-3.5	3	0.707953611	0.575064434	0.833704108	1	1	0.5
+146:04:00	what was the name of unk the unk 's brother unk	of	-0.37	2	0.759014466	0.64002209	0.893290755	1	1	0.5
+146:06:00	what was the name of unk the unk 's brother unk	the	-3.29	2	0.537922917	0.199520389	0.664877878	1	1	0.833333333
+146:08:00	what was the name of unk the unk 's brother unk	's	-5.42	3	0.796203933	0.742192137	0.869276556	0.5	0.666666667	0.333333333
+146:09:00	what was the name of unk the unk 's brother unk	brother	-9.01	5	0.802754766	0.751089072	0.923404341	1	1	0.666666667
+147:01:00	what was the name of unk the unk 's buddy unk	was	-3.96	3	0.727564693	0.537003996	0.760263436	1	1	1
+147:02:00	what was the name of unk the unk 's buddy unk	the	-1.89	2	0.537922917	0.199520389	0.664877878	1	1	1
+147:03:00	what was the name of unk the unk 's buddy unk	name	-3.5	3	0.707953611	0.575064434	0.833704108	1	1	1
+147:04:00	what was the name of unk the unk 's buddy unk	of	-0.37	2	0.759014466	0.64002209	0.893290755	1	1	1
+147:06:00	what was the name of unk the unk 's buddy unk	the	-3.29	2	0.537922917	0.199520389	0.664877878	1	1	1
+147:08:00	what was the name of unk the unk 's buddy unk	's	-5.42	3	0.796203933	0.742192137	0.869276556	0.166666667	0.5	1
+147:09:00	what was the name of unk the unk 's buddy unk	buddy	-9.26	4	0.800629231	0.601204015	0.883625075	1	1	1
+148:01:00	what was the name of unk the unk 's sidekick unk	was	-3.96	3	0.727564693	0.537003996	0.760263436	1	1	1
+148:02:00	what was the name of unk the unk 's sidekick unk	the	-1.89	2	0.537922917	0.199520389	0.664877878	1	1	1
+148:03:00	what was the name of unk the unk 's sidekick unk	name	-3.5	3	0.707953611	0.575064434	0.833704108	1	1	1
+148:04:00	what was the name of unk the unk 's sidekick unk	of	-0.37	2	0.759014466	0.64002209	0.893290755	1	1	1
+148:06:00	what was the name of unk the unk 's sidekick unk	the	-3.29	2	0.537922917	0.199520389	0.664877878	1	1	1
+148:08:00	what was the name of unk the unk 's sidekick unk	's	-5.42	3	0.796203933	0.742192137	0.869276556	0.333333333	0.666666667	0.333333333
+148:09:00	what was the name of unk the unk 's sidekick unk	sidekick	-12.2	6	0.835059888	0.740430881	0.908247854	1	0.833333333	0.5
+149:01:00	where things was looking a bit dark	things	-6.93	4	0.474329139	0.384444485	0.617893431	0.666666667	0.5	0.333333333
+149:02:00	where things was looking a bit dark	was	-6.3	3	0.727564693	0.537003996	0.760263436	0.666666667	0.666666667	0.166666667
+149:03:00	where things was looking a bit dark	looking	-7	5	0.678988853	0.530844334	0.795029279	1	1	0.833333333
+149:04:00	where things was looking a bit dark	a	-6.13	1	0.761481519	0.680891232	0.928979461	1	1	0.5
+149:05:00	where things was looking a bit dark	bit	-4.09	3	0.759860496	0.739109091	0.901813986	1	1	0.666666667
+149:06:00	where things was looking a bit dark	dark	-9.21	4	0.821216448	0.54845967	0.929552409	1	1	1
+150:01:00	where things was looking a bit unk	things	-6.93	4	0.474329139	0.384444485	0.617893431	0.666666667	0.5	0.5
+150:02:00	where things was looking a bit unk	was	-6.3	3	0.727564693	0.537003996	0.760263436	0.833333333	0.5	0.166666667
+150:03:00	where things was looking a bit unk	looking	-7	5	0.678988853	0.530844334	0.795029279	1	1	0.5
+150:04:00	where things was looking a bit unk	a	-6.13	1	0.761481519	0.680891232	0.928979461	1	1	0.833333333
+150:05:00	where things was looking a bit unk	bit	-4.09	3	0.759860496	0.739109091	0.901813986	1	1	0.833333333
+151:01:00	where things was looking a bit sour	things	-6.93	4	0.474329139	0.384444485	0.617893431	1	0.833333333	0.5
+151:02:00	where things was looking a bit sour	was	-6.3	3	0.727564693	0.537003996	0.760263436	0.5	0.333333333	0.166666667
+151:03:00	where things was looking a bit sour	looking	-7	5	0.678988853	0.530844334	0.795029279	1	1	0.833333333
+151:04:00	where things was looking a bit sour	a	-6.13	1	0.761481519	0.680891232	0.928979461	1	0.833333333	1
+151:05:00	where things was looking a bit sour	bit	-4.09	3	0.759860496	0.739109091	0.901813986	1	0.833333333	0.833333333
+151:06:00	where things was looking a bit sour	sour	-12.07	3	0.79739045	0.659403904	0.928350434	1	1	1
+152:01:00	who 's the unk unk her new husband	's	-1.95	3	0.796203933	0.742192137	0.869276556	0.5	0.666666667	0.333333333
+152:02:00	who 's the unk unk her new husband	the	-3.13	2	0.537922917	0.199520389	0.664877878	1	1	0.833333333
+152:05:00	who 's the unk unk her new husband	her	-7.99	2	0.858539932	0.631457319	0.913932763	1	0.666666667	0.5
+152:06:00	who 's the unk unk her new husband	new	-7.44	2	0.49685232	0.304875407	0.663724829	1	1	1
+152:07:00	who 's the unk unk her new husband	husband	-6.73	7	0.780622271	0.646488331	0.876247421	1	1	1
+153:01:00	who 's the unk unk her new husband	's	-1.95	3	0.796203933	0.742192137	0.869276556	0.666666667	0.666666667	0.333333333
+153:02:00	who 's the unk unk her new husband	the	-3.13	2	0.537922917	0.199520389	0.664877878	1	1	0.833333333
+153:05:00	who 's the unk unk her new husband	her	-7.99	2	0.858539932	0.631457319	0.913932763	1	0.333333333	0.5
+153:06:00	who 's the unk unk her new husband	new	-7.44	2	0.49685232	0.304875407	0.663724829	1	1	1
+153:07:00	who 's the unk unk her new husband	husband	-6.73	7	0.780622271	0.646488331	0.876247421	1	0.666666667	1
+154:01:00	who 's the unk unk her new husband	's	-1.95	3	0.796203933	0.742192137	0.869276556	0.833333333	0.166666667	0.333333333
+154:02:00	who 's the unk unk her new husband	the	-3.13	2	0.537922917	0.199520389	0.664877878	1	1	0.5
+154:05:00	who 's the unk unk her new husband	her	-7.99	2	0.858539932	0.631457319	0.913932763	0.666666667	0	0
+154:06:00	who 's the unk unk her new husband	new	-7.44	2	0.49685232	0.304875407	0.663724829	0.833333333	1	0.333333333
+154:07:00	who 's the unk unk her new husband	husband	-6.73	7	0.780622271	0.646488331	0.876247421	1	1	0.333333333
+155:01:00	worked fantastically because that 's the kind of thing that they	fantastically	-14	11	0.740434418	0.607328245	0.828402237	1	0.833333333	0
+155:02:00	worked fantastically because that 's the kind of thing that they	because	-5.21	5	0.710101357	0.656343018	0.877948544	0.5	1	0
+155:03:00	worked fantastically because that 's the kind of thing that they	that	-3.42	3	0.858494095	0.774072043	0.960537108	0.666666667	0.666666667	0.333333333
+155:04:00	worked fantastically because that 's the kind of thing that they	's	-0.94	3	0.796203933	0.742192137	0.869276556	0.333333333	0.333333333	0.166666667
+155:05:00	worked fantastically because that 's the kind of thing that they	the	-2.14	2	0.537922917	0.199520389	0.664877878	0.833333333	1	0.666666667
+155:06:00	worked fantastically because that 's the kind of thing that they	kind	-4.36	4	0.781481276	0.582234549	0.890269905	0.833333333	0.666666667	0.333333333
+155:07:00	worked fantastically because that 's the kind of thing that they	of	-0.3	2	0.759014466	0.64002209	0.893290755	0.833333333	0.833333333	0.666666667
+155:08:00	worked fantastically because that 's the kind of thing that they	thing	-1.07	3	0.781976774	0.616749645	0.859957109	0.833333333	1	0.666666667
+155:09:00	worked fantastically because that 's the kind of thing that they	that	-1.38	3	0.858494095	0.774072043	0.960537108	0.666666667	0.666666667	0.333333333
+155:10:00	worked fantastically because that 's the kind of thing that they	they	-2.69	2	0.769852066	0.662375908	0.90448277	0.833333333	0.666666667	0.166666667
+156:01:00	worked incredibly because that 's the kind of thing that they	incredibly	-12.08	10	0.747844444	0.604829983	0.862707866	0.833333333	1	1
+156:02:00	worked incredibly because that 's the kind of thing that they	because	-8.46	5	0.710101357	0.656343018	0.877948544	0.666666667	0.666666667	0.5
+156:03:00	worked incredibly because that 's the kind of thing that they	that	-3.68	3	0.858494095	0.774072043	0.960537108	0.5	0.666666667	0.833333333
+156:04:00	worked incredibly because that 's the kind of thing that they	's	-1.02	3	0.796203933	0.742192137	0.869276556	0.333333333	0.666666667	0.666666667
+156:05:00	worked incredibly because that 's the kind of thing that they	the	-2.1	2	0.537922917	0.199520389	0.664877878	0.666666667	0.833333333	0.833333333
+156:06:00	worked incredibly because that 's the kind of thing that they	kind	-4.25	4	0.781481276	0.582234549	0.890269905	0.5	0.5	0.5
+156:07:00	worked incredibly because that 's the kind of thing that they	of	-0.28	2	0.759014466	0.64002209	0.893290755	0.666666667	0.666666667	0.5
+156:08:00	worked incredibly because that 's the kind of thing that they	thing	-1.04	3	0.781976774	0.616749645	0.859957109	0.666666667	0.833333333	0.666666667
+156:09:00	worked incredibly because that 's the kind of thing that they	that	-1.39	3	0.858494095	0.774072043	0.960537108	0.5	0.666666667	0.833333333
+156:10:00	worked incredibly because that 's the kind of thing that they	they	-2.71	2	0.769852066	0.662375908	0.90448277	0.5	0.666666667	0
+157:01:00	yeah and then she got fussy at you at the end	and	-6.06	3	0.787526494	0.643693002	0.870525041	1	0.833333333	0.5
+157:02:00	yeah and then she got fussy at you at the end	then	-3.57	3	0.833093901	0.713198105	0.872215964	1	1	0.5
+157:03:00	yeah and then she got fussy at you at the end	she	-5.86	2	0.82435915	0.667284845	0.856017545	1	1	0.5
+157:04:00	yeah and then she got fussy at you at the end	got	-4.26	3	0.898186825	0.840551512	0.929103984	1	1	0.5
+157:05:00	yeah and then she got fussy at you at the end	fussy	-12.9	4	0.77204235	0.694688501	0.850866031	0.5	0.333333333	0
+157:06:00	yeah and then she got fussy at you at the end	at	-5.65	2	0.861436523	0.704304342	0.925297638	1	0.833333333	0.333333333
+157:07:00	yeah and then she got fussy at you at the end	you	-5.79	2	0.589431956	0.634635308	0.557849016	1	0.666666667	0.166666667
+157:08:00	yeah and then she got fussy at you at the end	at	-8.61	2	0.861436523	0.704304342	0.925297638	1	0.833333333	0.333333333
+157:09:00	yeah and then she got fussy at you at the end	the	-1.42	2	0.537922917	0.199520389	0.664877878	1	1	0.833333333
+157:10:00	yeah and then she got fussy at you at the end	end	-1.54	3	0.748079544	0.614021493	0.895306517	1	1	0.666666667
+158:01:00	yeah and then she got grumpy at you at the end	and	-6.06	3	0.787526494	0.643693002	0.870525041	0.666666667	1	0.666666667
+158:02:00	yeah and then she got grumpy at you at the end	then	-3.57	3	0.833093901	0.713198105	0.872215964	0.833333333	0.833333333	0.666666667
+158:03:00	yeah and then she got grumpy at you at the end	she	-5.86	2	0.82435915	0.667284845	0.856017545	0.833333333	1	0.833333333
+158:04:00	yeah and then she got grumpy at you at the end	got	-4.26	3	0.898186825	0.840551512	0.929103984	1	1	0.833333333
+158:05:00	yeah and then she got grumpy at you at the end	grumpy	-12.78	6	0.675742264	0.54796835	0.82143206	1	1	0
+158:06:00	yeah and then she got grumpy at you at the end	at	-6.6	2	0.861436523	0.704304342	0.925297638	0.833333333	1	0.166666667
+158:07:00	yeah and then she got grumpy at you at the end	you	-5.07	2	0.589431956	0.634635308	0.557849016	0.833333333	1	0
+158:08:00	yeah and then she got grumpy at you at the end	at	-7.59	2	0.861436523	0.704304342	0.925297638	0.833333333	1	0.166666667
+158:09:00	yeah and then she got grumpy at you at the end	the	-1.52	2	0.537922917	0.199520389	0.664877878	1	1	0.666666667
+158:10:00	yeah and then she got grumpy at you at the end	end	-1.59	3	0.748079544	0.614021493	0.895306517	1	1	0.333333333
+159:02:00	yeah unk 's at training for to be a teacher	's	-8.35	3	0.796203933	0.742192137	0.869276556	0.5	0.5	0.166666667
+159:03:00	yeah unk 's at training for to be a teacher	at	-6.87	2	0.861436523	0.704304342	0.925297638	1	0.666666667	0.833333333
+159:04:00	yeah unk 's at training for to be a teacher	training	-10.1	6	0.727053585	0.558720997	0.839452526	1	1	0.833333333
+159:05:00	yeah unk 's at training for to be a teacher	for	-4.3	3	0.683631202	0.429919015	0.7482703	0.166666667	0	0
+159:06:00	yeah unk 's at training for to be a teacher	to	-6.92	2	0.564953928	0.45146134	0.788231969	0.833333333	1	0.833333333
+159:07:00	yeah unk 's at training for to be a teacher	be	-2.98	2	0.709224335	0.659560437	0.741146158	1	1	0.833333333
+159:08:00	yeah unk 's at training for to be a teacher	a	-1.76	1	0.761481519	0.680891232	0.928979461	1	1	0.833333333
+159:09:00	yeah unk 's at training for to be a teacher	teacher	-4.44	4	0.770168569	0.711660774	0.912883649	1	1	1
+160:02:00	yeah unk 's at training for to be an instructor	's	-8.35	3	0.796203933	0.742192137	0.869276556	0.666666667	0.5	0.166666667
+160:03:00	yeah unk 's at training for to be an instructor	at	-6.87	2	0.861436523	0.704304342	0.925297638	1	0.833333333	0.166666667
+160:04:00	yeah unk 's at training for to be an instructor	training	-10.1	6	0.727053585	0.558720997	0.839452526	1	1	1
+160:05:00	yeah unk 's at training for to be an instructor	for	-4.3	3	0.683631202	0.429919015	0.7482703	0.5	0.166666667	0
+160:06:00	yeah unk 's at training for to be an instructor	to	-6.92	2	0.564953928	0.45146134	0.788231969	0.833333333	1	1
+160:07:00	yeah unk 's at training for to be an instructor	be	-2.98	2	0.709224335	0.659560437	0.741146158	1	1	1
+160:08:00	yeah unk 's at training for to be an instructor	an	-3.79	2	0.797221882	0.62322319	0.889931886	1	1	0.666666667
+160:09:00	yeah unk 's at training for to be an instructor	instructor	-5.18	9	0.846090699	0.781302063	0.894600383	1	1	0.666666667
+161:01:00	yeah you are too fussy your standards are too high	you	-5.52	2	0.589431956	0.634635308	0.557849016	0.5	1	0.5
+161:02:00	yeah you are too fussy your standards are too high	are	-4.58	2	0.731639388	0.417510853	0.799962084	1	0.666666667	0.333333333
+161:03:00	yeah you are too fussy your standards are too high	too	-5.29	2	0.575248356	0.570638537	0.656940475	1	1	0.666666667
+161:04:00	yeah you are too fussy your standards are too high	fussy	-12.71	4	0.77204235	0.694688501	0.850866031	1	1	0.333333333
+161:05:00	yeah you are too fussy your standards are too high	your	-11.33	3	0.77838118	0.385199197	0.836574006	1	0.5	0.5
+161:06:00	yeah you are too fussy your standards are too high	standards	-8.54	8	0.790370468	0.672448836	0.851735817	1	1	0.666666667
+161:07:00	yeah you are too fussy your standards are too high	are	-4.95	2	0.731639388	0.417510853	0.799962084	1	0.666666667	0.333333333
+161:08:00	yeah you are too fussy your standards are too high	too	-5.33	2	0.575248356	0.570638537	0.656940475	1	1	0.666666667
+161:09:00	yeah you are too fussy your standards are too high	high	-4.74	2	0.768927989	0.617102174	0.910981537	1	1	0.5
+162:01:00	yeah you are too picky your standards are too high	you	-5.52	2	0.589431956	0.634635308	0.557849016	0.833333333	0.833333333	0.333333333
+162:02:00	yeah you are too picky your standards are too high	are	-4.58	2	0.731639388	0.417510853	0.799962084	0.833333333	0.5	0.5
+162:03:00	yeah you are too picky your standards are too high	too	-5.29	2	0.575248356	0.570638537	0.656940475	1	0.833333333	0.333333333
+162:04:00	yeah you are too picky your standards are too high	picky	-9.39	4	0.697873397	0.457710473	0.828867916	1	0.833333333	0.166666667
+162:05:00	yeah you are too picky your standards are too high	your	-8.82	3	0.77838118	0.385199197	0.836574006	0.833333333	0.333333333	0.5
+162:06:00	yeah you are too picky your standards are too high	standards	-9	8	0.790370468	0.672448836	0.851735817	1	0.5	0.5
+162:07:00	yeah you are too picky your standards are too high	are	-4.45	2	0.731639388	0.417510853	0.799962084	0.833333333	0.5	0.5
+162:08:00	yeah you are too picky your standards are too high	too	-5.46	2	0.575248356	0.570638537	0.656940475	1	0.833333333	0.333333333
+162:09:00	yeah you are too picky your standards are too high	high	-4.83	2	0.768927989	0.617102174	0.910981537	1	0.666666667	0.5
+163:01:00	you did not even say it correctly that time	did	-5.38	3	0.690796901	0.530016586	0.836438525	1	0.833333333	0.833333333
+163:02:00	you did not even say it correctly that time	not	-3.4	3	0.83510231	0.774108485	0.955440843	1	0.833333333	1
+163:03:00	you did not even say it correctly that time	even	-4.11	4	0.641258998	0.542956861	0.738840662	1	1	1
+163:04:00	you did not even say it correctly that time	say	-5.53	2	0.82635397	0.756810246	0.954856433	1	1	0.833333333
+163:05:00	you did not even say it correctly that time	it	-2.49	2	0.827461182	0.765324546	0.914102825	1	1	0.833333333
+163:06:00	you did not even say it correctly that time	correctly	-11.67	7	0.740566137	0.639494548	0.867770935	1	1	0.833333333
+163:07:00	you did not even say it correctly that time	that	-4.82	3	0.858494095	0.774072043	0.960537108	1	1	0.666666667
+163:08:00	you did not even say it correctly that time	time	-5.88	3	0.773843498	0.597436755	0.889145435	1	1	0.833333333
+164:01:00	you did not even say it right that time	did	-5.38	3	0.690796901	0.530016586	0.836438525	1	1	0.666666667
+164:02:00	you did not even say it right that time	not	-3.4	3	0.83510231	0.774108485	0.955440843	1	1	0.666666667
+164:03:00	you did not even say it right that time	even	-4.11	4	0.641258998	0.542956861	0.738840662	1	1	0.333333333
+164:04:00	you did not even say it right that time	say	-5.53	2	0.82635397	0.756810246	0.954856433	1	1	0.333333333
+164:05:00	you did not even say it right that time	it	-2.49	2	0.827461182	0.765324546	0.914102825	1	1	0.333333333
+164:06:00	you did not even say it right that time	right	-6.98	3	0.794389785	0.69157216	0.902384056	1	1	0.5
+164:07:00	you did not even say it right that time	that	-5.22	3	0.858494095	0.774072043	0.960537108	1	1	1
+164:08:00	you did not even say it right that time	time	-5.63	3	0.773843498	0.597436755	0.889145435	1	1	1
+165:01:00	you know it unk very well so what a unk improvement	know	-1.14	2	0.799041758	0.513410565	0.871580729	1	1	0.833333333
+165:02:00	you know it unk very well so what a unk improvement	it	-3.51	2	0.827461182	0.765324546	0.914102825	1	0.833333333	0.166666667
+165:04:00	you know it unk very well so what a unk improvement	very	-4.86	4	0.81723182	0.561902268	0.901406668	0.5	0.666666667	0.833333333
+165:05:00	you know it unk very well so what a unk improvement	well	-3.88	3	0.729790007	0.496054141	0.867446096	1	1	0.833333333
+165:06:00	you know it unk very well so what a unk improvement	so	-5.12	2	0.827959454	0.786175267	0.945709785	0.833333333	0.666666667	0.166666667
+165:07:00	you know it unk very well so what a unk improvement	what	-6.98	3	0.753623136	0.631774666	0.874604202	1	0.5	0
+165:08:00	you know it unk very well so what a unk improvement	a	-4.74	1	0.761481519	0.680891232	0.928979461	0.166666667	0.166666667	0
+165:10:00	you know it unk very well so what a unk improvement	improvement	-10.29	10	0.628823335	0.564615418	0.753022888	1	0.5	0.166666667
+166:01:00	you know it unk very well so what a vast improvement	know	-1.14	2	0.799041758	0.513410565	0.871580729	1	0.833333333	0.666666667
+166:02:00	you know it unk very well so what a vast improvement	it	-3.51	2	0.827461182	0.765324546	0.914102825	1	0.666666667	0.166666667
+166:04:00	you know it unk very well so what a vast improvement	very	-4.86	4	0.81723182	0.561902268	0.901406668	0.5	1	0.666666667
+166:05:00	you know it unk very well so what a vast improvement	well	-3.88	3	0.729790007	0.496054141	0.867446096	0.833333333	1	0.833333333
+166:06:00	you know it unk very well so what a vast improvement	so	-5.12	2	0.827959454	0.786175267	0.945709785	1	1	0.333333333
+166:07:00	you know it unk very well so what a vast improvement	what	-6.98	3	0.753623136	0.631774666	0.874604202	0.833333333	0.833333333	0
+166:08:00	you know it unk very well so what a vast improvement	a	-4.74	1	0.761481519	0.680891232	0.928979461	0.833333333	0.833333333	0.333333333
+166:09:00	you know it unk very well so what a vast improvement	vast	-9.48	4	0.736352542	0.62377969	0.853474965	0.833333333	0.833333333	0.333333333
+166:10:00	you know it unk very well so what a vast improvement	improvement	-7.86	10	0.628823335	0.564615418	0.753022888	0.833333333	1	0.333333333
+167:01:00	you should boost him to go along	should	-6.32	3	0.852459712	0.753422607	0.954200823	1	1	0.666666667
+167:02:00	you should boost him to go along	boost	-12.09	4	0.667287277	0.549082054	0.750872419	1	0.833333333	0.5
+167:03:00	you should boost him to go along	him	-4.15	3	0.792124141	0.574679321	0.831275691	1	0.666666667	0
+167:04:00	you should boost him to go along	to	-1.9	2	0.564953928	0.45146134	0.788231969	1	0.833333333	0.333333333
+167:05:00	you should boost him to go along	go	-2.96	2	0.827750948	0.671539759	0.90960004	1	1	0.5
+167:06:00	you should boost him to go along	along	-5.22	4	0.627270776	0.538170924	0.801833611	1	0.666666667	0.333333333
+168:01:00	you should encourage him to go along	should	-6.32	3	0.852459712	0.753422607	0.954200823	1	1	0.5
+168:02:00	you should encourage him to go along	encourage	-8.38	6	0.805840322	0.692106308	0.91026309	1	1	0.833333333
+168:03:00	you should encourage him to go along	him	-4.43	3	0.792124141	0.574679321	0.831275691	1	1	0.166666667
+168:04:00	you should encourage him to go along	to	-0.55	2	0.564953928	0.45146134	0.788231969	1	1	1
+168:05:00	you should encourage him to go along	go	-2.69	2	0.827750948	0.671539759	0.90960004	1	1	1
+168:06:00	you should encourage him to go along	along	-5.26	4	0.627270776	0.538170924	0.801833611	1	1	1
+169:01:00	you would have additional expense for unk	would	-4.94	3	0.831415596	0.638307008	0.890644965	1	0.833333333	0.166666667
+169:02:00	you would have additional expense for unk	have	-2.08	3	0.749897515	0.655628398	0.898080459	1	0.833333333	0.333333333
+169:03:00	you would have additional expense for unk	additional	-11.76	8	0.747609259	0.699302377	0.903613071	0.833333333	1	0.666666667
+169:04:00	you would have additional expense for unk	expense	-8.43	7	0.85055858	0.744012046	0.876200713	1	1	0.666666667
+169:05:00	you would have additional expense for unk	for	-3.35	3	0.683631202	0.429919015	0.7482703	1	0.833333333	0
+170:01:00	you would have extra expense for unk	would	-4.94	3	0.831415596	0.638307008	0.890644965	1	1	0.333333333
+170:02:00	you would have extra expense for unk	have	-2.08	3	0.749897515	0.655628398	0.898080459	1	1	0.333333333
+170:03:00	you would have extra expense for unk	extra	-8.98	6	0.822369899	0.7482038	0.909521477	1	1	0.666666667
+170:04:00	you would have extra expense for unk	expense	-8.56	7	0.85055858	0.744012046	0.876200713	1	0.833333333	0.5
+170:05:00	you would have extra expense for unk	for	-3.1	3	0.683631202	0.429919015	0.7482703	1	0.166666667	0
